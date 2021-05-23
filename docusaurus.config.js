@@ -11,7 +11,7 @@ module.exports = {
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'Learn',
+      title: 'Tech Affairs',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo_light.svg',
@@ -21,16 +21,15 @@ module.exports = {
         {
           type: 'doc',
           docId: 'python/getting-started/what-is-programming',
-          position: 'left',
+          position: 'right',
           label: 'Python',
         },
         {
           type: 'doc',
           docId: 'personal-website/tutorial-basics/create-a-page',
-          position: 'left',
+          position: 'right',
           label: 'Personal Website',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
           label: 'Main Site',
           href: 'https://www.tamushpe.org/',
@@ -75,12 +74,12 @@ module.exports = {
           title: 'More',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
               label: 'Main Site',
               href: 'https://tamushpe.org',
+            },
+            {
+              label: 'Join Tech Affairs',
+              to: '/',
             },
           ],
         },
@@ -97,12 +96,6 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
