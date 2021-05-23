@@ -7,13 +7,13 @@
 
 /* You can override the default Infima variables here. */
 :root {
---ifm-color-primary: #0070c0;
---ifm-color-primary-dark: #0065ad;
---ifm-color-primary-darker: #005fa3;
---ifm-color-primary-darkest: #004e86;
---ifm-color-primary-light: #007bd3;
---ifm-color-primary-lighter: #0081dd;
---ifm-color-primary-lightest: #0092fa;
+--ifm-color-primary: #fd652f;
+--ifm-color-primary-dark: #fd4f11;
+--ifm-color-primary-darker: #fd4402;
+--ifm-color-primary-darkest: #d03802;
+--ifm-color-primary-light: #fd7b4d;
+--ifm-color-primary-lighter: #fd865c;
+--ifm-color-primary-lightest: #fea788;
   --ifm-code-font-size: 95%;
 }
 
@@ -22,4 +22,19 @@
   display: block;
   margin: 0 calc(-1 * var(--ifm-pre-padding));
   padding: 0 var(--ifm-pre-padding);
+}
+
+.nav-button{
+  color: white;
+  background-color: #0091f8;
+  border-radius: 5px;
+  margin-right: 10px;
+  padding: 4px 10px;
+}
+.nav-button:hover{
+  color: white;
+  background-color: #0070C0;
+  border-radius: 5px;
+  margin-right: 10px;
+  padding: 4px 10px;
 }

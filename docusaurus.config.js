@@ -10,6 +10,33 @@ module.exports = {
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
   themeConfig: {
+    colorMode: {
+      // "light" | "dark"
+      defaultMode: 'dark',
+
+      // Should we use the prefers-color-scheme media-query,
+      // using user system preferences, instead of the hardcoded defaultMode
+      respectPrefersColorScheme: false,
+
+      // Dark/light switch icon options
+      switchConfig: {
+        // Icon for the switch while in dark mode
+        darkIcon: '🌙',
+
+        // CSS to apply to dark icon,
+        // React inline style object
+        // see https://reactjs.org/docs/dom-elements.html#style
+        darkIconStyle: {
+          marginLeft: '2px',
+        },
+
+        lightIcon: '☀️',
+
+        lightIconStyle: {
+          marginLeft: '1px',
+        },
+      },
+    },
     navbar: {
       title: 'Tech Affairs',
       logo: {
@@ -31,9 +58,10 @@ module.exports = {
           label: 'Personal Website',
         },
         {
-          label: 'Main Site',
-          href: 'https://www.tamushpe.org/',
+          label: 'Join Now',
+          href: 'https://www.tamushpe.org/committees.html',
           position: 'right',
+          className: 'nav-button',
         },
       ],
     },
