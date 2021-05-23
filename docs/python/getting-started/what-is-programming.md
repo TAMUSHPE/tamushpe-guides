@@ -17,7 +17,7 @@ export const Highlight = ({children, color}) => (
   </span>
 );
 
-In basic terms, computers are just machines that perform a set of instructions very percisely. The internal circuits of these machines are wired to detect specific signals in the form of high and low voltages which can be interpreted as 1's and 0's, also known as <Highlight color="#25c2a0">Machine Language</Highlight>. Machine Language is the only way to communicate with computers, however there are a few main issues with this method.
+In basic terms, computers are just machines that perform a set of instructions very percisely. The internal circuits of these machines are wired to detect specific signals in the form of high and low voltages which can be interpreted as 1's and 0's, also known as <Highlight color="var(--ifm-color-primary)">Machine Language</Highlight>. Machine Language is the only way to communicate with computers, however there are a few main issues with this method.
 
 Main Issues:
 1. Using 1's and 0's is obviously an unnatural way for humans to communicate, so it makes if very difficult to learn.
@@ -32,7 +32,7 @@ Main Issues:
 
 ## Assembly Language
 
-<Highlight color="#25c2a0">Assembly Language</Highlight> is a solution to the issues explained above. Programmers can write code in a way that is closer to human language, and a program called an "assembler" will convert this assembly code into machine code for the computer to understand. This allows programmers to create software quicker and easier.
+<Highlight color="var(--ifm-color-primary)">Assembly Language</Highlight> is a solution to the issues explained above. Programmers can write code in a way that is closer to human language, and a program called an "assembler" will convert this assembly code into machine code for the computer to understand. This allows programmers to create software quicker and easier.
 
 Example:
 1. The assembly code written below adds three numbers (R1, R2, and R3).
@@ -50,7 +50,7 @@ By comparing both code snippets, we can see that assembly is a lot easier to und
 
 ## High Level Language
 
-As the world continues to integrate new technology into our everyday lives, programs become more advanced and complicated to write. Assembly language is a lot easier to write than machine code; however, it's not sufficient for the complex software needed today and in the future. <Highlight color="#25c2a0">High-level Language</Highlight> languages allow people to write code in a way that is even more similar to human language than assembly language is. Since computers can't understand high-level language syntax, something called a compiler or interpreter converts this code into machine language for better understanding. The example below demonstrates how to add three numbers in machine language, assembly language, and high-level language.
+As the world continues to integrate new technology into our everyday lives, programs become more advanced and complicated to write. Assembly language is a lot easier to write than machine code; however, it's not sufficient for the complex software needed today and in the future. <Highlight color="var(--ifm-color-primary)">High-level Language</Highlight> languages allow people to write code in a way that is even more similar to human language than assembly language is. Since computers can't understand high-level language syntax, something called a compiler or interpreter converts this code into machine language for better understanding. The example below demonstrates how to add three numbers in machine language, assembly language, and high-level language.
 
 Example:
 1. Machine Language

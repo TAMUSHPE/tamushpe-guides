@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'tamuSHPE Guides',
-  tagline: 'Dinosaurs are cool',
+  tagline: 'TAMU SHPE is cool',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
