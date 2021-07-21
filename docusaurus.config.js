@@ -103,11 +103,11 @@ module.exports = {
           items: [
             {
               label: 'Main Site',
-              href: 'https://tamushpe.org',
+              href: 'https://www.tamushpe.org',
             },
             {
               label: 'Join Tech Affairs',
-              to: '/',
+              to: 'https://www.tamushpe.org/committees.html',
             },
           ],
         },
