@@ -106,13 +106,17 @@ module.exports = {
               href: 'https://www.tamushpe.org',
             },
             {
+              label: 'MemberSHPE Portal',
+              to: 'https://www.membershpe.org',
+            },
+            {
               label: 'Join Tech Affairs',
               to: 'https://www.tamushpe.org/committees.html',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} TAMU SHPE`,
     },
   },
   presets: [
