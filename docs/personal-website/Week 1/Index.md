@@ -23,7 +23,3 @@ Howdy, SHPEtin@!
 ```
 
 2. Now, go to your Github desktop app and open the repository in VSCode (^ + cmd + A; Repository > Open in Visual Studio Code)
-
-![opened](img/opened-index-file.png)
-
-3. 
