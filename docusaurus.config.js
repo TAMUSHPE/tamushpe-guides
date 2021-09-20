@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'tamuSHPE Guides',
-  tagline: 'TAMU SHPE is cool',
+  tagline: 'An inclusive environemnt for individuals who are passionate about using technology to improve themselves and the life of others.',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -59,7 +59,7 @@ module.exports = {
         },
         {
           label: 'Join Now',
-          href: 'https://www.tamushpe.org/committees.html',
+          to: 'https://www.tamushpe.org/committees.html',
           position: 'right',
           className: 'nav-button',
         },
@@ -86,15 +86,15 @@ module.exports = {
           items: [
             {
               label: 'Instagram',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              to: 'https://www.instagram.com/tamushpe/?hl=en',
             },
             {
-              label: 'TikTok',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'LinkedIn',
+              to: 'https://www.linkedin.com/company/tamushpe/',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              to: 'https://twitter.com/tamushpe?lang=en',
             },
           ],
         },
@@ -103,7 +103,7 @@ module.exports = {
           items: [
             {
               label: 'Main Site',
-              href: 'https://www.tamushpe.org',
+              to: 'https://www.tamushpe.org',
             },
             {
               label: 'MemberSHPE Portal',
