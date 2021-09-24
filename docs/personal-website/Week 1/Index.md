@@ -23,3 +23,15 @@ Howdy, SHPEtin@!
 ```
 
 2. Now, go to your Github desktop app and open the repository in VSCode (^ + cmd + A; Repository > Open in Visual Studio Code)
+
+3. Click on your index.html file on the left side if it didn't automatically open it, and it should look like this:
+
+![Locale Dropdown](/img/tutorial/opened-index-file.png)
+
+4. Finally for this week, play around with changing the text *Howdy, SHPEtin@* to anything else, and change 'h1' to 'h2', and 'p'. Note the differences of how it changes in the Chrome browser.
+
+### 🎉 Congratulations! You have completed this section 🥳
+
+## 🎈 Thank you for joining us this week! We look forward to you continuing.🤓
+
+💡*[Feedback HERE](https://forms.gle/GZi1nqvatC5KHSWW7)*🤔
