@@ -71,13 +71,13 @@ module.exports = {
         {
           title: 'Guides',
           items: [
-            {
-              label: 'Python',
-              to: '/docs/python/getting-started/what-is-programming',
-            },
+            // {
+            //   label: 'Python',
+            //   to: '/docs/python/getting-started/what-is-programming',
+            // },
             {
               label: 'Personal Website',
-              to: '/docs/personal-website/tutorial-basics/create-a-page',
+              to: '/docs/personal-website/Purpose/introduction',
             },
           ],
         },
