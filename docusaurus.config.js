@@ -45,12 +45,12 @@ module.exports = {
         srcDark: 'img/logo_dark.svg',
       },
       items: [
-        {
-          type: 'doc',
-          docId: 'python/getting-started/what-is-programming',
-          position: 'right',
-          label: 'Python',
-        },
+        // {
+        //   type: 'doc',
+        //   docId: 'python/getting-started/what-is-programming',
+        //   position: 'right',
+        //   label: 'Python',
+        // },
         {
           type: 'doc',
           docId: 'personal-website/Purpose/introduction',
