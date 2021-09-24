@@ -1,14 +1,14 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'tamuSHPE Guides',
-  tagline: 'TAMU SHPE is cool',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
+  tagline: 'An inclusive environemnt for individuals who are passionate about using technology to improve themselves and the life of others.',
+  url: 'https://TAMUSHPE.github.io',
+  baseUrl: '/tamushpe-guides/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'TAMUSHPE', // Usually your GitHub org/user name.
+  projectName: 'tamushpe-guides', // Usually your repo name.
   themeConfig: {
     colorMode: {
       // "light" | "dark"
@@ -59,7 +59,7 @@ module.exports = {
         },
         {
           label: 'Join Now',
-          href: 'https://www.tamushpe.org/committees.html',
+          to: 'https://www.tamushpe.org/committees.html',
           position: 'right',
           className: 'nav-button',
         },
@@ -86,15 +86,15 @@ module.exports = {
           items: [
             {
               label: 'Instagram',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              to: 'https://www.instagram.com/tamushpe/?hl=en',
             },
             {
-              label: 'TikTok',
-              href: 'https://discordapp.com/invite/docusaurus',
+              label: 'LinkedIn',
+              to: 'https://www.linkedin.com/company/tamushpe/',
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              to: 'https://twitter.com/tamushpe?lang=en',
             },
           ],
         },
@@ -103,7 +103,7 @@ module.exports = {
           items: [
             {
               label: 'Main Site',
-              href: 'https://www.tamushpe.org',
+              to: 'https://www.tamushpe.org',
             },
             {
               label: 'MemberSHPE Portal',

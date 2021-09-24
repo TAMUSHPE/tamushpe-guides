@@ -24,6 +24,25 @@
   padding: 0 var(--ifm-pre-padding);
 }
 
+.hero.hero--primary {
+  background: linear-gradient(
+      to right bottom,
+      #0065aed2,
+      #0091f8da,
+      #0082dfd7,
+      #007bd3e1,
+      #0065aed7
+    ),
+    url(../../static/img/testing.jpeg);
+  color: #fff !important;
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+.hero__subtitle {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 .nav-button{
   color: white;
   background-color: #0091f8;
