@@ -53,7 +53,7 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'personal-website/tutorial-basics/create-a-page',
+          docId: 'personal-website/Purpose/introduction',
           position: 'right',
           label: 'Personal Website',
         },
