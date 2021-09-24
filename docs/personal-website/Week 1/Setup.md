@@ -23,8 +23,8 @@ sidebar_position: 1
 1. If you haven't already, [create a github account](https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F&source=header-home)
 2. Once you created your github account, [install Github Desktop](https://desktop.github.com/) for your respective operating system (OS: *MAC, Windows, Linux, etc*)
 3. Once you finish setting GHD up, [create a new repository](https://github.com/new), name it *username*.github.io, where username is your username (or organization name) on GitHub. **Please double check it is your username, it will not work if misstyped**
-4. Quick setup option: select **Setup in Desktop**, make sure to route the Local Path, preferably, to your desktop for easier access. 
-5. It should now look like this **TODO: Insert snapshot**
+4. The quick setup option: select **Setup in Desktop**, in your new GitHub repo.
+5. Once opened in the GitHub Desktop app, make sure to **route the Local Path**, preferably, to your Desktop folder, or an existing projects folder, for easier access.
 
 ### 🎉 Congratulations! You have completed this section 🥳
 
