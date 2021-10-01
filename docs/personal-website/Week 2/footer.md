@@ -32,7 +32,6 @@ Since there are three additional components besides the home/index page, create 
 6. styles.css - styles file, more useful later
 ```
 
-
 ### 🎉 Congratulations! You have completed this section 🥳
 
 ## 🎈 Thank you for joining us this week! We look forward to you continuing.🤓
