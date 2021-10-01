@@ -33,12 +33,12 @@ Now go back to the index.html file on VSCode to edit it.
 
 - Add name, classifications, etc using a div blocks; format text on the style sheet using padding, color, etc. For example, Eddie's snapshot is added below:
 ![eddie's](img/eddie-code.png)
-    
-    Explanation of classes used above:
-    - ```class = "text-center"``` centers the text in the ```<p>``` block
-    - ```class = "name" / "backtext"``` are classes I created to format in the style.css file separately from the other classes
-    - ```class = "h1" / "h2"``` increases and decreases the size of the font
-    - ```id = "maroon"``` is an ID class I created to format in the style.css file separately from all others (you can only have one id in every file)
-    - padding controls the whitespace corresponding to the block
+
+Explanation of classes used above:
+- ```class = "text-center"``` centers the text in the ```<p>``` block
+- ```class = "name" / "backtext"``` are classes I created to format in the style.css file separately from the other classes
+- ```class = "h1" / "h2"``` increases and decreases the size of the font
+- ```id = "maroon"``` is an ID class I created to format in the style.css file separately from all others (you can only have one id in every file)
+- padding controls the whitespace corresponding to the block
 
 ### 🎉 Congratulations! You have completed this section 🥳
