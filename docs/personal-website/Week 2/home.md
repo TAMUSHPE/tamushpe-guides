@@ -16,8 +16,12 @@ Now go back to the index.html file on VSCode to edit it.
         ```.NAME_OF_CLASS{ styling goes here}```
         3. In our case, the style.css file  would look as such
         ```css
-        body {
-            background-image: url('img/background.gif');
+        body, html {
+            height: 100%;
+        }  
+            
+        .background-pic {
+            background-image: url(img/background.jpg);
             height: 100%;
             background-position: center;
             background-repeat: no-repeat;
