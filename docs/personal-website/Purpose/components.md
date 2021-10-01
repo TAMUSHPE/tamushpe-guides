@@ -27,7 +27,7 @@ Your professional website will contain the following components, which will help
 - Projects Page
   - Contains your projects and descriptions in reverse chronological order
   - The projects would be first seen in a small box with the name of the project, but then would expand out after pushing a ‘learn more’ button. This will lead to a large description of the project.
-  - Challenge: Instead of it being a small box, extends the image across the whole background. On top of this background image, add a colored filter. On top of that have a brief description of the project with a learn more button as well which gives a deeper understanding of what was accomplished
+    - Challenge: Instead of it being a small box, extends the image across the whole background. On top of this background image, add a colored filter. On top of that have a brief description of the project with a learn more button as well which gives a deeper understanding of what was accomplished
 - Involvement Page
   - This page is similar to the projects page
   - Challenge: Instead of it being a small box, extends the image across the whole background. On top of this background image, add a colored filter. On top of that have a brief description of the organization with a learn more button as well which gives a deeper understanding of what you have done in the organizations
@@ -37,4 +37,4 @@ Your professional website will contain the following components, which will help
 
 ## Friendly reminders
 
--Your website does not have to follow our strict requirements! It is simply an outline of what is typically included on professional websites
+- Your website does not have to follow our strict requirements! It is simply an outline of what is typically included on professional websites.
