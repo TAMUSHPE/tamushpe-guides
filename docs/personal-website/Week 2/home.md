@@ -16,12 +16,8 @@ Now go back to the index.html file on VSCode to edit it.
         ```.NAME_OF_CLASS{ styling goes here}```
         3. In our case, the style.css file  would look as such
         ```css
-        body, html {
-            height: 100%;
-        }  
-            
-        .background-pic {
-            background-image: url(img/background.jpg);
+        body {
+            background-image: url('img/background.png');
             height: 100%;
             background-position: center;
             background-repeat: no-repeat;
@@ -32,13 +28,41 @@ Now go back to the index.html file on VSCode to edit it.
     - helpful links: [https://www.w3schools.com/html/html_images_background.asp](https://www.w3schools.com/html/html_images_background.asp)
 
 - Add name, classifications, etc using a div blocks; format text on the style sheet using padding, color, etc. For example, Eddie's snapshot is added below:
+
+    - To add to ```index.html``` after the ```</nav>```
+    ```
+    <div class="text-center align-self-center">
+		<p class="name text-center h1">Name</p>
+		<p class="text-center h1 backtext">University & Class Name</p>
+		<p class="text-center h2 backtext">Major</p>
+	</div>
+    ```
+    - To add to ```styles.css```
+    ```
+    .name {
+        font-size: 75px;
+        color: white;
+        padding-top: 12%;
+        padding-bottom: 0%;
+        font-family: 'Oswald', sans-serif;
+    }
+
+    .backtext {
+            font-family: 'Open Sans', sans-serif;
+            font-size: 50px;
+            color:white;
+            font-family: 'Oswald', sans-serif;
+            margin: 0;
+    }
+    ```
+
 ![eddie's](img/eddie-code.png)
-    
-    Explanation of classes used above:
-    - ```class = "text-center"``` centers the text in the ```<p>``` block
-    - ```class = "name" / "backtext"``` are classes I created to format in the style.css file separately from the other classes
-    - ```class = "h1" / "h2"``` increases and decreases the size of the font
-    - ```id = "maroon"``` is an ID class I created to format in the style.css file separately from all others (you can only have one id in every file)
-    - padding controls the whitespace corresponding to the block
+
+Explanation of classes used above:
+- ```class = "text-center"``` centers the text in the ```<p>``` block
+- ```class = "name" / "backtext"``` are classes I created to format in the style.css file separately from the other classes
+- ```class = "h1" / "h2"``` increases and decreases the size of the font
+- ```id = "maroon"``` is an ID class I created to format in the style.css file separately from all others (you can only have one id in every file)
+- padding controls the whitespace corresponding to the block
 
 ### 🎉 Congratulations! You have completed this section 🥳
