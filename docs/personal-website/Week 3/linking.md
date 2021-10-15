@@ -47,6 +47,7 @@ Now, lets get to the real deal...
     </div>
 </nav>
 ```
+
 3. See where it says ```<a class="nav-link" href="#">Projects</a>```? Replace the ```#``` with the respective file name, in this case, projects.html
 4. Repeat for all navbar links, **except** the resume page for now.
     - You don't have to do this now, but if you want to get ahead...
@@ -64,6 +65,7 @@ Minor changes to all files **but** the index.html file will include:
 If you know how to do that, go ahead. For more detailed steps, follow them bellow.
 
 1. Remove the div consisting of what we added to the home page. It should look something like this:
+
 ```
 <div class="text-center align-self-center">
     <p class="name text-center h1">Paula L. Geronimo</p>
@@ -71,6 +73,7 @@ If you know how to do that, go ahead. For more detailed steps, follow them bello
     <p class="text-center h2 backtext">Technology Management</p>
 </div>
 ```
+
 with your information instead, of course. Remove it from all the other files. For file management, instead of openeing one by one on a different VSCode window, you have tabs to toggle from.
 2. Once you have removed that from every file, go ahead and select, copy *everything* in the ```<navbar></navbar>``` tag, *then* select the old navbar in your other file, and paste.
 
