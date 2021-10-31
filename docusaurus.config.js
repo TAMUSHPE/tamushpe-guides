@@ -53,7 +53,7 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'python/getting-started/what-is-programming',
+          docId: 'python/getting-started/course-introduction',
           position: 'right',
           label: 'Python',
         },
@@ -77,7 +77,7 @@ module.exports = {
             },
             {
               label: 'Python',
-              to: '/docs/python/getting-started/what-is-programming',
+              to: '/docs/python/getting-started/course-introduction',
             },
           ],
         },
