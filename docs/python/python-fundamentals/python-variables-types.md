@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Python Varaible and Types
+# Varaibles and Types
 
 -Variables are used for the purpose of storing data values, but here is the catch python does not have a command for storing variables. Instead, you create a variable the moment you first assign a value to it
 

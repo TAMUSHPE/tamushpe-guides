@@ -1,19 +1,43 @@
 ---
 sidebar_position: 3
 ---
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # Arithmetic
 
--Operators include addition, subtraction, multiplication, division down below I will show you examples of what each looks like 
+![Math](/img/math.jpeg)
+
+This section will cover basic athrimetic in Python and introduce some new operators. 
+
+## Basic Operators
+
+Python supports all basic operations such as addition, subtraction, multiplication, and division. Below is an example of what each looks like: 
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Basic operations in Python
+print(12 + 12) # Addition (+)
+print(12 - 12) # Subtraction (-)
+print(12 * 12) # Multiplication (*)
+print(12 / 12) # Division (/)
+```
+
+</TabItem>
+
+<TabItem value="Output" label="Output">
 
 ```
-# Assume x holds 10 and y holds 30
-x + y = 40 # addition (+)
-x - y = -20 # subtraction (-)
-x * y = 300 # Multiplication (*)
-x / y = 1/3 # Division (/)
-
+24
+0
+144
+1.0
 ```
+
+</TabItem>
+</Tabs>
 
 -Introduce modulo(%) and integer division( // ) 
 
