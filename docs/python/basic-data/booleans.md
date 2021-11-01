@@ -9,7 +9,6 @@ import TabItem from '@theme/TabItem';
 
 Why is the purpose of booleans? In programming you often need to know if an expression is True or False. A boolean is a data type can can only have one of two values `True` and `False`. Creating booleans is pretty straight forward as demonstrated below.
 
--Here is an example of booleans comparing two values.
 
 <Tabs>
 <TabItem value="Code" label="Code" default>
