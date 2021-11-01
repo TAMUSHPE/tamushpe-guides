@@ -20,5 +20,5 @@ yarn-debug.log*
 yarn-error.log*
 
 # Test folder
-/test-section
-/loops
+/docs/python/test-section
+/docs/python/loops
