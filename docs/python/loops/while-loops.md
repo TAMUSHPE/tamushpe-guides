@@ -37,7 +37,7 @@ Here we see that we stop at 4 because the value stored in `i` no longer holds tr
 </TabItem>
 </Tabs>
 
-# Infinite Loops
+## Infinite Loops
 You might be feeling pretty confident right now with while loops... "It's easy!  I just keep going as long my looping condition is true."  Yes you are right about that but what would happen if your condition always stayed true?  This is where we run into the infinite loop
 
 When using a `while` loop, we want to make sure we have a condition that will eventually evaluate to false so we can exit our `while` loop.  However if we do not do this, our program will be stuck in that loop until you close your program or your program consumes all available processor time before being booted out.

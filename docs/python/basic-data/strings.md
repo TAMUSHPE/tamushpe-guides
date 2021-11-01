@@ -102,7 +102,9 @@ They may be a case where you have a really long string such as a paragraph and w
 
 ```python
 # Creates a multiline string variable
-longString = """TAMU SHPE Mission Statement: Enhance opportunities for personal and professional growth through social and academic responsibilities while holding true to the Aggie spirit.""" 
+longString = """TAMU SHPE Mission Statement: Enhance opportunities 
+for personal and professional growth through social and academic 
+responsibilities while holding true to the Aggie spirit.""" 
 
 # Prints the multiline string
 print(longString)
