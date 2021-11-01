@@ -45,17 +45,17 @@ module.exports = {
         srcDark: 'img/logo_dark.svg',
       },
       items: [
-        // {
-        //   type: 'doc',
-        //   docId: 'python/getting-started/what-is-programming',
-        //   position: 'right',
-        //   label: 'Python',
-        // },
         {
           type: 'doc',
           docId: 'personal-website/Purpose/introduction',
           position: 'right',
           label: 'Personal Website',
+        },
+        {
+          type: 'doc',
+          docId: 'python/getting-started/course-introduction',
+          position: 'right',
+          label: 'Python',
         },
         {
           label: 'Join Now',
@@ -71,13 +71,13 @@ module.exports = {
         {
           title: 'Guides',
           items: [
-            // {
-            //   label: 'Python',
-            //   to: '/docs/python/getting-started/what-is-programming',
-            // },
             {
               label: 'Personal Website',
               to: '/docs/personal-website/Purpose/introduction',
+            },
+            {
+              label: 'Python',
+              to: '/docs/python/getting-started/course-introduction',
             },
           ],
         },
