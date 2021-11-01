@@ -1,51 +1,120 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Strings
--Strings are surronded by either single qouattions marks or double qouation makrs
--'Hello' is the same as "hello" and you display this by using the print() function.
+Strings are one of the most used and popular data types in Python. Strings are a collection of characters that allow us to communicatr information to the user of a program.
 
-Here is an examples
-```
-print("Hello")
-print('Hello')
+## Creating Strings
+You can thin of strings as basic English text such as names, words, and sentances. Strings are represented by wrapping text in a single quotes `'` or  double quotes `"` such as `"Hello"`. 
 
-#Output: Hello
-         Hello
-```
+Here are some examples:
 
--With strings you can assingn a string to a vraible
-```
-a = "Hello"
-print(a)
+<Tabs>
+<TabItem value="Code" label="Code" default>
 
-#output: Hello
+```python
+myStringSingle = 'This is a string with single quotes' # String with single quotes
+myStringDouble = "This is a string with double quotes" # String with double quotes
+
+print(myStringSingle)
+print(myStringDouble)
 ```
 
-# Concatenation
--String Concatenation basically means add strings together. Also use the " + " to add a variable to another variable. Down below we will provide you with an example to further solidify your understanding.
+</TabItem>
+
+<TabItem value="Output" label="Output">
 
 ```
+This is a string with single quotes
+This is a string with double quotes
+```
+
+</TabItem>
+</Tabs>
+
+
+## Concatenation
+
+String Concatenation is the process of "adding" strings together. You can achieve this by using the `+` between two Strings. Below is an example to further solidify your understanding. 
+
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Creates 2 strings and concatenates them
 x = "Erick is"
-y = "belligerent"
+y = "a Mechanical Engineer"
 z = x + y
 
+# Prints the new sentence
 print(z)
-
-#output: Erick is belligerent
 ```
 
-# List of characters
--Here we will be disccusing 
+</TabItem>
 
--Using """ or ''' the three comma can help with assinging a mulitline string as follows.
+<TabItem value="Output" label="Output">
+
 ```
-a = """ I put no stock in religion. By the word religion I have seen the lunacy of fanatics of every denomination be called the will of god. I have seen too much religion in the eyes of too many murderers. Holiness is in right action, and courage on behalf of those who cannot defend themselves, and goodness."""
-
-#Output: 
-I put no stock in religion. By the word religion I have seen the lunacy of fanatics of every denomination be called the will of god. I have seen too much religion in the eyes of too many murderers. Holiness is in right action, and courage on behalf of those who cannot defend themselves, and goodness.
+Erick is a Mechanical Engineer
 ```
 
-# Strings are Arrays
--
+</TabItem>
+</Tabs>
+
+## String Multiplication
+
+In Python you can multiply strings by a number using `*`. This operation returns a new string that dublicates the string by the number it's multiplied by.
+**Example:**
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Creates a string variable
+x = "Example"
+
+# Prints the string multiplied by 3
+print(x * 3)
+```
+
+</TabItem>
+
+<TabItem value="Output" label="Output">
+
+```
+ExampleExampleExample
+```
+
+</TabItem>
+</Tabs>
+
+## Multiline Strings
+
+They may be a case where you have a really long string such as a paragraph and want it to span multiple lines in your IDE. You can wrap your text in `"""` or `'''` to creat a multiline string.
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Creates a multiline string variable
+longString = """TAMU SHPE Mission Statement: Enhance opportunities for personal and professional growth through social and academic responsibilities while holding true to the Aggie spirit.""" 
+
+# Prints the multiline string
+print(longString)
+```
+
+</TabItem>
+
+<TabItem value="Output" label="Output">
+
+```
+TAMU SHPE Mission Statement: Enhance opportunities for personal and professional growth through social and academic responsibilities while holding true to the Aggie spirit.
+```
+
+</TabItem>
+</Tabs>
