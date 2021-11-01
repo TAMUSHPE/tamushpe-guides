@@ -1,66 +1,105 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Numbers
--There are three numeric types in python: int, float, and complex. And down below we will show you what differentiates them.
+There are two main numeric types in python that you'll see very often throughout this course: int and float. The main difference between these two types is that int acts as a whole number and floats can have decimals. Below is an example of how to initilize each type (very simple).
 
-```
-x = 1 # int
+```python
+# Creates an int and float variable
+x = 1   # int
 y = 2.6 # float
-z = 1d # complex
-
 ```
 
--you can also verigy thr type of any object in python, to do this you use the type() function.
-```
+## Type Verification
+
+In Python you can verify the type of any object using the `type` function.
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Creates an int and float variable
+x = 1
+y = 3.13
+
+# Prints the type of x and y
 print(type(x))
 print(type(y))
-print(type(z))
-
-#Output: <class 'int'>
-         <class 'float'>
-         <class 'complex'>   
 ```
 
-# Floats
--The float() method return a floating point number from a number or a string
-```
-int_number = 22
+</TabItem>
 
-#convert int to float
-float_number = float(int_number)
-print(float_number)
-
-#Output: 22.0
-```
-
-# Ints
--The int() method returns a integer object from any number or string.
--before we show you an example here are a few things to keep in mind
-
-# Int() parameters
-x- Number or string to be converted to integer object. The default argument is zero
-
-base - Base of the number in x. Can be 0 (code literal) or 2-36.
-
-# return value from int()
--an integer object from the given number or string treats default base as 10
--No parameters) returns 0
--(If base given) treats the string in the given base (0, 2, 8, 10, 16)
+<TabItem value="Output" label="Output">
 
 ```
-# integer
-print("int(123) is:", int(123))
-
-# float
-print("int(123.23) is:", int(123.23))
-
-# string
-print("int('123') is:", int('123'))
-
-#output: int(123) is: 123
-         int(123.23) is: 123
-         int('123') is: 123
+<class 'int'>
+<class 'float'>
 ```
 
+</TabItem>
+</Tabs>
+
+## Floats
+
+You can use the `float` method to explicitly cast a string or number to a float. Any int can become a float, however only strings containing numberic characters can be casted to floats. The word `Hello` cant be casted to a float, however the string `"123"` can be casted to a float.
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Creates string variable and prints its type
+y = "3.13"
+print(y, type(y))
+
+# Casts y to a float and prints its type
+y = float(y)
+print(y, type(y))
+```
+
+</TabItem>
+
+<TabItem value="Output" label="Output">
+
+```
+3.13 <class 'str'>
+3.13 <class 'float'>
+```
+
+</TabItem>
+</Tabs>
+
+# Integers
+Sinilar to a float, you can use the `int` method to explicitly cast a string or number to an integer. Any number can become an int, however only strings containing numberic characters can be casted to ints. The word `Hello` can't be casted to a int, however the string `"123"` can be casted to a int.
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Creates string variable and prints its type
+y = "3.13"
+print(type(y))
+
+# Casts y to an int and prints its type
+y = int(y)
+print(type(y))
+```
+
+</TabItem>
+
+<TabItem value="Output" label="Output">
+
+```
+3.13 <class 'str'>
+3 <class 'int'>
+```
+
+</TabItem>
+</Tabs>
+
+:::note
+Note that when casting a number to an int, any existing decimals will be dropped since an integer is a whole number.
+:::

@@ -1,45 +1,119 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
+
 # Lists
-- What are lists? lists allow you to work with mutiple elemnts at once, here is an example of a list
+In Python, Lists allow you to work with mutiple elemnts at once. A list is a collection of objects and allows you to store multiple items in a single variable.
+
+**Basic Example:**
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Creates a list of names and prints it
+names = ["Josh","Eddie","Jonathan, Adolio"]
+print("names = ", names)
+```
+
+</TabItem>
+
+<TabItem value="Output" label="Output">
 
 ```
-mylist = ["Josh","Eddie","Johnny"]
-print(mylist)
-
-# output: ['josh','Eddie','Johnny']
+names = ['Josh','Eddie','Jonathan','Adolio']
 ```
+
+</TabItem>
+</Tabs>
+
 
 ## Append
--Here we will explore and learn about the python list append() method, and provide some examples to further your understanding.
 
--The append() method adds items to the end of the list and here is an exmaple.
+Here we'll explore and learn about the Python list `append` method and provide some examples to further your understanding.
+The `append` method allows you to add items to the end of the list.
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Creates a list of groceries
+groceries = ['apples','bacon','spinach']
+
+# adds grapes to the end of the list
+groceries.append('grapes')
+
+# Prints the grocery list
+print("groceries = ", groceries)
+```
+
+</TabItem>
+
+<TabItem value="Output" label="Output">
 
 ```
-grocery = ['apples','bacon','spinach']
-
-#append 'grapes' to the list
-grocery.append('grapes')
-
-print(grcoery)
-
-#output: ['apples','bacon','spinach','grapes']
+groceries = ['apples','bacon','spinach','grapes']
 ```
+
+</TabItem>
+</Tabs>
+
 
 ## Indexing
--What is indexing? Indexing in python is a way to refer the indiviual items within an iterable by its postion. 
 
--Here is an example of indexing, the Index() method returns the index of the sepcified in the list.
+Indexing in Python is a way to refer the individual items within an list by it's postion. Positions in lists start with index `0`!! You can use square brackets `[]` to index an element in a specific position. The example below shows how to index different elements in a list.
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Creates a list of animals
+animals = ['snake','fish','bear','eagle']
+
+# Prints items at different positions
+print("First Item: ", animals[0])
+print("Second Item: ", animals[1])
+print("Third Item: ", animals[2])
+print("Fourth Item: ", animals[3])
+```
+
+</TabItem>
+
+<TabItem value="Output" label="Output">
 
 ```
-creatures = ['snake','fish','bear','eagle']
-
-#get the index of 'fish'
-index = creatures.index('fish')
-
-print(index)
-
-# Output: 1
+snake
+fish
+bear
+eagle
 ```
+
+</TabItem>
+</Tabs>
+
+You can also use the `index` function to find the position of a specific item in a list.
+
+<Tabs>
+<TabItem value="Code" label="Code" default>
+
+```python
+# Creates a list of animals
+animals = ['snake','fish','bear','eagle']
+
+# Prints position of 'bear'
+print("Position of bear:", animals.index('bear'))
+```
+
+</TabItem>
+
+<TabItem value="Output" label="Output">
+
+```
+Position of bear: 2
+```
+
+</TabItem>
+</Tabs>
