@@ -3,7 +3,7 @@ module.exports = {
   title: 'tamuSHPE Guides',
   tagline: 'An inclusive environemnt for individuals who are passionate about using technology to improve themselves and the life of others.',
   url: 'http://tech.tamushpe.org',
-  baseUrl: '/tamushpe-guides/',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
