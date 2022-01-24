@@ -10,6 +10,14 @@ module.exports = {
   organizationName: 'TAMUSHPE', // Usually your GitHub org/user name.
   projectName: 'tamushpe-guides', // Usually your repo name.
   themeConfig: {
+    announcementBar: {
+      id: 'shpeathon_apply',
+      content:
+        'Apply to participate in our SHPEathon competition <a target="_blank" rel="noopener noreferrer" href="https://bit.ly/SHPEathon">here</a>. <span style="font-weight: bold;">Date: Feb 4th-6th</span>',
+      backgroundColor: '#72A9BE',
+      textColor: '#fff',
+      isCloseable: false,
+    },
     colorMode: {
       // "light" | "dark"
       defaultMode: 'dark',
