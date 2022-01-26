@@ -13,7 +13,7 @@ module.exports = {
     announcementBar: {
       id: 'shpeathon_apply',
       content:
-        'Apply to participate in our SHPEathon competition <a target="_blank" rel="noopener noreferrer" href="https://bit.ly/SHPEathon">here</a>. <span style="font-weight: bold;">Date: Feb 4th-6th</span>',
+        'Learn about our upcoming SHPEathon competition <a rel="noopener noreferrer" href="/docs/shpeathon/event-details/event-details">here</a>. <span style="font-weight: bold;">Date: Feb 4th-6th</span>',
       backgroundColor: '#72A9BE',
       textColor: '#fff',
       isCloseable: false,
