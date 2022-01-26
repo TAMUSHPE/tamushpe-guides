@@ -14,8 +14,8 @@ module.exports = {
       id: 'shpeathon_apply',
       content:
         'Learn about our upcoming SHPEathon competition <a rel="noopener noreferrer" href="/docs/shpeathon/event-details/event-details">here</a>. <span style="font-weight: bold;">Date: Feb 4th-6th</span>',
-      backgroundColor: '#72A9BE',
-      textColor: '#fff',
+      backgroundColor: '#FCBB19',
+      textColor: '#000',
       isCloseable: false,
     },
     colorMode: {
