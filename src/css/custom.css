@@ -43,16 +43,31 @@
   padding-right: 10%;
 }
 
-.nav-button{
+.nav-button-blue{
   color: white;
   background-color: #0091f8;
   border-radius: 5px;
   margin-right: 10px;
   padding: 4px 10px;
 }
-.nav-button:hover{
+.nav-button-blue:hover{
   color: white;
   background-color: #0070C0;
+  border-radius: 5px;
+  margin-right: 10px;
+  padding: 4px 10px;
+}
+
+.nav-button-orange{
+  color: white;
+  background-color: #FD652F;
+  border-radius: 5px;
+  margin-right: 10px;
+  padding: 4px 10px;
+}
+.nav-button-orange:hover{
+  color: white;
+  background-color: #b54a23;
   border-radius: 5px;
   margin-right: 10px;
   padding: 4px 10px;

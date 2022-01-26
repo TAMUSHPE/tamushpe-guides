@@ -65,11 +65,18 @@ module.exports = {
           position: 'right',
           label: 'Python',
         },
+        // {
+        //   label: 'Join Now',
+        //   to: 'https://www.tamushpe.org/committees.html',
+        //   position: 'right',
+        //   className: 'nav-button-blue',
+        // },
         {
-          label: 'Join Now',
-          to: 'https://www.tamushpe.org/committees.html',
+          type: 'doc',
+          docId: 'shpeathon/event-details/event-details',
           position: 'right',
-          className: 'nav-button',
+          className: 'nav-button-orange',
+          label: 'SHPEathon',
         },
       ],
     },
@@ -77,7 +84,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Guides',
+          title: 'Pages',
           items: [
             {
               label: 'Personal Website',
@@ -86,6 +93,10 @@ module.exports = {
             {
               label: 'Python',
               to: '/docs/python/getting-started/course-introduction',
+            },
+            {
+              label: 'SHPEathon',
+              to: '/docs/shpeathon/event-details/event-details',
             },
           ],
         },
