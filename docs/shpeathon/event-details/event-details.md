@@ -22,8 +22,10 @@ Collaborate with fellow SHPE members during a weekend-long competition to launch
 | ----------- | ----------- | ----------- | ----------- |
 | ** <BlueText text="Event:"></BlueText> **       | Kick off Meeting       | Office Hours | Final Presentations     |
 | ** <BlueText text="Location:"></BlueText> **    | JEB 111     | Zachary     | JEB 111         |
-| ** <BlueText text="Time:"></BlueText> **       | 6pm         | 1-5pm       | 1pm          |
+| ** <BlueText text="Time:"></BlueText> **       | 6pm         |  <BlueText text="**"></BlueText>  1-5pm       | 1pm          |
 | ** <BlueText text="Attire:"></BlueText> **       | Casual         | Casual       | Business Casual          |
+
+<BlueText text="** There is a mandatory Sales Pitch @ 3pm. Teams will earn extra points for having at least 3 members being present before and after the sales pitch."></BlueText> 
 
 ** Note: Teams are responsible for meeting independently to complete their project at times and locations that they prefer. This is to allow flexibility in your weekend schedule. **
 
