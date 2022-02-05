@@ -13,9 +13,9 @@ The Design phase provides your team with the opportunity to explore all potentia
 ## Breakdown
 
 ```
-1. Team Building
-2. Brainstorming
-3. Establish Your Company
-4. Assign Company Roles
-5. Team Picture
+1. Product Planning
+2. Design Documents
+3. Product Refinement
+4. Sustainability
+5. Diversity & Inclusion
 ```
