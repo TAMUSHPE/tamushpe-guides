@@ -6,6 +6,11 @@ sidebar_position: 3
 
 ![TeamBuilding](/img/shpeathon-brainstorm.jpeg)
 
+## Theme
+```
+TAMU SHPE members will collaborate in a weekend long competition to launch a mock company and create an innovative product that enhances the life of college students either Financially, Academically, Professionally, Mentally, or Socially. 
+```
+
 ## 📃 Details
 
 Now that you know a bit more about each other, you can move on to the fun part! In this section, you will brainstorm product ideas that satisfy the theme of this competition. Be unique and creative with your ideas. 
