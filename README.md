@@ -1,6 +1,12 @@
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+The Tech Affairs Website provides committee members with a centralized resource for learning how to create a personal website, code in python and find other important information.
+This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator which makes it easy for us to focus on the content and let Jonathan focus on the code. 
+
+
+## Prerequisites 
+
+You must have `npm` (Node Package Manager) installed on your laptop or other development environment.
 
 ## Installation
 
