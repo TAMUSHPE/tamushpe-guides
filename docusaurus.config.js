@@ -24,26 +24,7 @@ module.exports = {
 
       // Should we use the prefers-color-scheme media-query,
       // using user system preferences, instead of the hardcoded defaultMode
-      respectPrefersColorScheme: false,
-
-      // Dark/light switch icon options
-      switchConfig: {
-        // Icon for the switch while in dark mode
-        darkIcon: '🌙',
-
-        // CSS to apply to dark icon,
-        // React inline style object
-        // see https://reactjs.org/docs/dom-elements.html#style
-        darkIconStyle: {
-          marginLeft: '2px',
-        },
-
-        lightIcon: '☀️',
-
-        lightIconStyle: {
-          marginLeft: '1px',
-        },
-      },
+      respectPrefersColorScheme: true,
     },
     navbar: {
       title: 'Tech Affairs',
@@ -65,6 +46,12 @@ module.exports = {
           position: 'right',
           label: 'Python',
         },
+        // {
+        //   type: 'doc',
+        //   docId: 'transfer-of-knowledge/Introduction/introduction',
+        //   position: 'right',
+        //   label: 'Transfer of Knowledge',
+        // },
         // {
         //   label: 'Join Now',
         //   to: 'https://www.tamushpe.org/committees.html',
@@ -96,7 +83,7 @@ module.exports = {
             },
             {
               label: 'SHPEathon',
-              to: '/docs/shpeathon/event-details/event-details',
+              to: '/docs/shpeathon/event-details',
             },
           ],
         },
@@ -134,6 +121,15 @@ module.exports = {
             },
           ],
         },
+        // {
+        //   title: 'Admin',
+        //   items: [
+        //     {
+        //       label: 'Log In',
+        //       to: '/docs/transfer-of-knowledge/introduction',
+        //     },
+        //   ],
+        // },
       ],
       copyright: `Copyright © ${new Date().getFullYear()} TAMU SHPE`,
     },
