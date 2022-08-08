@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 1
 ---
 
 # Dimensional Analysis
@@ -10,11 +10,7 @@ Dimensional analysis is a very useful method of converting units from one system
 
 A concise example of this would be converting measurements of time. Say you want to find the number of seconds in one day. In order to calculate this, you must first set up the problem, which involves indentifying **the units you have** vs. **the units you want**.
 
-<!-- Setting up this problem involves identifying the starting dimension or units, which is feet, and the desired dimension, which in this case is kilometers. -->
-
 ![Dimensional Analysis Problem](/static/img/dimensional-analysis-setup.jpg)
-
-
 
 Put the units you're starting with in the first box, then find the conversion factor to the desired unit and place it in the bottom of the next box. This can be repeated several times, as shown in the example. In 1 day there are 24 hours, while in 1 hour there are 60 minutes, and so on.
 

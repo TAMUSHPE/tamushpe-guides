@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 
 import Tabs from '@theme/Tabs';
@@ -17,6 +17,6 @@ Physical changes on the other hand are mostly visual, they do not alter chemical
 
 ## States of Matter
 
-f
+There are several states of matter, 
 
 ## 
