@@ -89,8 +89,3 @@ ___
 * [x] Task 1
 * [x] This should be complete
 * [ ] This should not be checked off
-
-<!-- Notes (1st part is title of it and is capitalized)-->
-:::note
-This is a test.
-:::
