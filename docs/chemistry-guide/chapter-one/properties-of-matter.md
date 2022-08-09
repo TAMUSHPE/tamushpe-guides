@@ -2,11 +2,11 @@
 sidebar_position: 2
 ---
 
-# Properties of Matter
+# Matter
 
-Matter has many characteristics, whether it's the state it's in, the changes occuring to it, or how it's mixed.
+Matter has many characteristics, whether it's the state it's in, the types of changes occuring to it, or how it's classified depending upon the combinations of elements or substances.
 
-## Physical vs. Chemical
+## Physical vs. Chemical Changes
 
 ![Physical Change](/static/img/physical-change.jpg)
 
@@ -28,8 +28,10 @@ Chemical changes on the other hand, are more complex and not so easily identifia
 
 An example of this would be a nail rusting, as a chemical reaction is taking place between the iron in the nail, water from outside sources, and the oxygen in the atmosphere.
 
-## States of Matter
+## Classification of Matter
 
-There are several states of matter, 
+The main two sub-classifications of matter include `pure substances` and `mixtures`. Pure substances generally include elements and compounds, whereas a mixture is a combination of at least two or more pure substances. 
 
-## 
+A pure substance is something that consists of a fixed chemical composition throughout its contents. These contents are most often single elements or compounds, such as carbon or water. Compounds which are considered pure substances can often be seperated through chemical reactions.
+
+On the other hand, a mixture is two or more pure substances combined. The chemical composition of a mixture is not constant, it varies throughout its contents unlike pure substances. This means that there can be different compounds throughout the mixture, such as water and sugar. Examples of mixtures include soda as well as salt water, since there are multiple compounds within these liquids that make the composition vary throughout. Mixtures can be seperated through physical processes such as boiling, filtration, and evaporation.
