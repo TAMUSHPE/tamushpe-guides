@@ -89,3 +89,16 @@ ___
 * [x] Task 1
 * [x] This should be complete
 * [ ] This should not be checked off
+
+<!-- This isn't centered, requires ${}$ for chemistry -->
+${CO_2 + C -> 2CO}$
+
+<!-- Centered using $$ -->
+$${CO2 + C -> 2 CO}$$
+
+<!-- Testing further -->
+${Y^{99+}}$
+
+${H_2 + O \rightarrow H_20}$
+
+$2 H_2O_2\space(aq)\longrightarrow 2H_2O\space(l)+O_2\space(g)$
