@@ -102,3 +102,9 @@ ${Y^{99+}}$
 ${H_2 + O \rightarrow H_20}$
 
 $2 H_2O_2\space(aq)\longrightarrow 2H_2O\space(l)+O_2\space(g)$
+
+<!-- Superscript -->
+x<sup>2</sup>
+
+<!-- Subscript -->
+H<sub>2</sub>O
