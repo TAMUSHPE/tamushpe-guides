@@ -46,6 +46,12 @@ module.exports = {
           position: 'right',
           label: 'Python',
         },
+        {
+          type: 'doc',
+          docId: 'chemistry-guide/introduction',
+          position: 'right',
+          label: 'Chemistry Guide',
+        },
         // {
         //   type: 'doc',
         //   docId: 'transfer-of-knowledge/Introduction/introduction',
@@ -80,6 +86,10 @@ module.exports = {
             {
               label: 'Python',
               to: '/docs/python/getting-started/course-introduction',
+            },
+            {
+              label: 'Chemistry Guide',
+              to: '/docs/chemistry-guide/introduction',
             },
             {
               label: 'SHPEathon',
