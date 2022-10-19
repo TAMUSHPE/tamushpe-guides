@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Partial Pressure & Mole Fractions
 
-![Partial Pressures](/static/img/partial-pressures.jpg)
+![Partial Pressures](/img/partial-pressures.jpg)
 
 Dalton's Law of partial pressure states that the total pressure of a mixture of gases is equal to the sum of the partial pressures of different gases within the mixture.
 

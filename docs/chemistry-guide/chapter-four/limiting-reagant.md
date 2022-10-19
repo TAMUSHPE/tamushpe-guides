@@ -8,11 +8,11 @@ Limiting reagent is the reactant that is completely consumed in a chemical react
 
 For example, take this chemical equation:
 
-![Limiting Reagant Example](/static/img/limiting-reagant-equation.png)
+![Limiting Reagant Example](/img/limiting-reagant-equation.png)
 
 The image below represents all the reactants that we want to convert into products.
 
-![Reactants Analogy](/static/img/limiting-reagant-reactants.png)
+![Reactants Analogy](/img/limiting-reagant-reactants.png)
 
 If we count the number of each reactant and divide it by the number needed to form one product we get that -
 * Yellow cube can yield 4 products

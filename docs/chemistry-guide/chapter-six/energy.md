@@ -6,7 +6,7 @@ sidebar_position: 2
 
 Energy, frequency, and wavelength are all related. This statement holds true in this sub-section and many if not all that follow. Energy is generally measured in `joules`. One important constant that will be used is `Planck's Constant`. This constant is denoted by `h` and is approximately 6.626 x 10<sup>-34</sup> Js.
 
-![Formula](/static/img/photon-formulae.jpg)
+![Formula](/img/photon-formulae.jpg)
 
 ## Photoelectric Effect
 

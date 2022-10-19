@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Solubility
 
-![Aqueous Solution Example](/static/img/aqueous-solution.jpg)
+![Aqueous Solution Example](/img/aqueous-solution.jpg)
 
 The above image shows a solid (s) becoming an aqueous solution (aq) by dissolving in water. Aqueous solutions will be talked about in more detail in the following sub-section.
 
@@ -22,14 +22,14 @@ When there's too much solute for the amount of solvent, a solution becomes satur
 
 ## Soluble Compounds
 
-![Molecular vs. Ionic Interpretation](/static/img/ionic-vs-molecular.jpg)
+![Molecular vs. Ionic Interpretation](/img/ionic-vs-molecular.jpg)
 
 There are 2 kinds of soluble compounds, molecular and ionic. The image above shows the difference between soluble molecular and ionic compounds, and how they act whenever they become aqueous.
 
-![Soluble Molecular Compound Image](/static/img/soluble-molecular-compound.jpg)
+![Soluble Molecular Compound Image](/img/soluble-molecular-compound.jpg)
 
 Molecular compounds generally remain intact within the solution and are surrounded by polar water molecules. An example of that is shown above, as the compound/molecule itself stays together within the solution.
 
-![Soluble Ionic Compound Image](/static/img/soluble-ionic-compound.jpg)
+![Soluble Ionic Compound Image](/img/soluble-ionic-compound.jpg)
 
 Above is an example of an ionic solution. Soluble ionic solids (also known as salts) tend to break up or dissociate to form ions within an aqueous solution (aq). These ions are then surrounded by polar molecules such as water.

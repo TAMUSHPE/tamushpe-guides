@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Course Introduction
 
-![General Chemistry Image](/static/img/chemistry-picture-intro.jpg)
+![General Chemistry Image](/img/chemistry-picture-intro.jpg)
 
 ## Purpose
 This guide will aid you throughout your CHEM 107 journey by providing insight as to what will be taught in this course alongside the topics you should focus and prioritize on. Additionally, this guide will serve as a great resource to look back on after completing 107!

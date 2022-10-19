@@ -8,13 +8,13 @@ When dealing with chemical equations there are several components, such as react
 
 ## Parts of an Equation
 
-![Chemical Equation Parts Labeled](/static//img/balancing-chem-eq.jpg)
+![Chemical Equation Parts Labeled](//img/balancing-chem-eq.jpg)
 
 When reading a chemical equation, generally the left side will be the reactants while the right side is the products. The equation will also tell you the physical state of each element, its subscripts, and its coefficients.
 
 ## Steps to Balance Equations
 
-![Balancing Equations using Coefficients](/static/img/steps-balancing-eq.jpg)
+![Balancing Equations using Coefficients](/img/steps-balancing-eq.jpg)
 
 Balancing an equation is a relatively straightforward process, involving the addition of coefficients to either the reactants or products side or both sides in some cases. The steps to balance an equation are as follows -
 

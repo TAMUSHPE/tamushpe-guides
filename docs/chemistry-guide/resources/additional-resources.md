@@ -4,15 +4,15 @@ sidebar_position: 1
 
 # Additional Resources
 
-![Chemistry Resources](/static/img/chemistry-resource.jpg)
+![Chemistry Resources](/img/chemistry-resource.jpg)
 
 Here are some extra resources to help you learn Chemistry. It's important and almost always best to get multiple perspectives by using different sources.
 
 ## General Resources
 
-- Website - [Periodic Table]()
-- Video - [1st Half of Material]()
-- Video - [2nd Half of Material]()
+- Website - [Periodic Table](https://ptable.com/#Properties)
+- Video - [1st Half of Material](https://www.youtube.com/watch?v=5yw1YH7YA7c)
+- Video - [2nd Half of Material](https://www.youtube.com/watch?v=lSmJN1_uVpI)
 
 ## Study tips for Quizzes/Exams
 

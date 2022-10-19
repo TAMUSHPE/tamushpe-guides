@@ -8,7 +8,7 @@ Matter has many characteristics, whether it's the state it's in, the types of ch
 
 ## Physical vs. Chemical Changes
 
-![Physical Change](/static/img/physical-change.jpg)
+![Physical Change](/img/physical-change.jpg)
 
 Physical and chemical changes are similar to one another but are very different at the molecular level. Physical changes are mostly visual, as they do not alter the chemical bonds of the object involved nor create new substances. 
 
@@ -16,7 +16,7 @@ Take for example chopping wood, this change is physical because the wood still h
 
 <!-- Additionally, most mixtures are created as a result of a physical change, meaning that they can be reverted later on. -->
 
-![Chemical Change](/static/img/chemical-change.jpg)
+![Chemical Change](/img/chemical-change.jpg)
 
 Chemical changes, on the other hand, are more complex and not so easily identifiable nor differentiable from physical changes. However, these 5 indicators can be used to make distinguishing the two easier.
 
