@@ -48,7 +48,7 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'chemistry-guide/introduction',
+          docId: 'chemistry-guide/introduction/course-introduction',
           position: 'right',
           label: 'Chemistry Guide',
         },
@@ -89,7 +89,7 @@ module.exports = {
             },
             {
               label: 'Chemistry Guide',
-              to: '/docs/chemistry-guide/introduction',
+              to: '/docs/chemistry-guide/introduction/course-introduction',
             },
             {
               label: 'SHPEathon',

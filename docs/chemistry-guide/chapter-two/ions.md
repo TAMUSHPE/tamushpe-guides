@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Ions
 
-![Cation and Anion Image](/static/img/cation-anion.png)
+![Cation and Anion Image](/img/cation-anion.png)
 
 There are several types of ions, and most are formed when atoms lose or gain electrons. The main 2 types of ions are `monatomic ions` and `polyatomic ions`. Ions are then classified by whether they have a positive charge or negative charge, leaving them classified as either a `cation` or `anion`.
 

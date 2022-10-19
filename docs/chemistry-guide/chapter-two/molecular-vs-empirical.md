@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Molecular vs. Empirical
 
-![Molecular vs. Empirical Image](/static/img/molecular-empirical.png)
+![Molecular vs. Empirical Image](/img/molecular-empirical.png)
 
 There are 2 general representations of a formula, those being molecular and empirical. The `molecular formula` is the regular/actual formula for a compound or molecule, showing how many atoms of each element are in the compound. An example of this is shown above, as C<sub>4</sub>H<sub>8</sub>. This formula is essentially a multiple of the empirical formula.
 
@@ -12,7 +12,7 @@ On the other hand, the `empirical formula` is the simplest ratio of atoms in a c
 
 ## Mass Percentages
 
-![Mass Percentages](/static/img/mass-percentages.jpg)
+![Mass Percentages](/img/mass-percentages.jpg)
 
 Finding the mass percentage of an element is a relatively straightforward process.
 

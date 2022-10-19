@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # de Broglie Wavelength & Magnetism
 
-![de Broglie Wavelength Formula](/static/img/de-broglie-wavelength.jpg)
+![de Broglie Wavelength Formula](/img/de-broglie-wavelength.jpg)
 
 The de Broglie Wavelength and mass of an object are inversely proportional, as the mass of the object increases its corresponding wavelength decreases.
 
@@ -14,7 +14,7 @@ This principle states that it is impossible to both know the position and moment
 
 ## Magnetism
 
-![Magnetism Image](/static/img/magnetism.png)
+![Magnetism Image](/img/magnetism.png)
 
 There are two types of substances, diamagnetic and paramagnetic. The main difference between these two is that paramagnetic substances are influenced and attracted to magnetic fields, while diamagnetic substances are repelled by magnetic fields. Diamagnetic substances are repelled because they have no unpaired electrons.
 
