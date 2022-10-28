@@ -42,6 +42,12 @@ module.exports = {
         },
         {
           type: 'doc',
+          docId: 'new-personal-website/Week1/introduction',
+          position: 'right',
+          label: 'New Personal Website',
+        },
+        {
+          type: 'doc',
           docId: 'python/getting-started/course-introduction',
           position: 'right',
           label: 'Python',
