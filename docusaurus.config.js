@@ -84,6 +84,10 @@ module.exports = {
               to: '/docs/personal-website/Purpose/introduction',
             },
             {
+              label: 'New Personal Website',
+              to: '/docs/new-personal-website/Week1/introduction',
+            },
+            {
               label: 'Python',
               to: '/docs/python/getting-started/course-introduction',
             },
