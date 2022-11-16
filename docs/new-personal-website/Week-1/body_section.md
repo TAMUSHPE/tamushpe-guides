@@ -1,5 +1,5 @@
 ---
-sidebar-position: 5
+sidebar_position: 5
 ---
 
 # 📄 Setting up the Body

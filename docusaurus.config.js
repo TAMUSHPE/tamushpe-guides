@@ -42,7 +42,7 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'new-personal-website/Week1/introduction',
+          docId: 'new-personal-website/Week-1/introduction',
           position: 'right',
           label: 'New Personal Website',
         },
@@ -91,7 +91,7 @@ module.exports = {
             },
             {
               label: 'New Personal Website',
-              to: '/docs/new-personal-website/Week1/introduction',
+              to: '/docs/new-personal-website/Week-1/introduction',
             },
             {
               label: 'Python',

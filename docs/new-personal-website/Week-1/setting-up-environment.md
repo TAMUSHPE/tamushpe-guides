@@ -1,5 +1,5 @@
 ---
-sidebar-position: 2
+sidebar_position: 2
 ---
 
 # ⚙️ Setting Up Your Environment
