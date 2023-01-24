@@ -54,6 +54,12 @@ module.exports = {
         },
         {
           type: 'doc',
+          docId: 'cpp-guide/getting-started/guide-introduction',
+          position: 'right',
+          label: 'C++ Guide',
+        },
+        {
+          type: 'doc',
           docId: 'chemistry-guide/introduction/course-introduction',
           position: 'right',
           label: 'Chemistry Guide',
@@ -100,6 +106,10 @@ module.exports = {
             {
               label: 'Chemistry Guide',
               to: '/docs/chemistry-guide/introduction/course-introduction',
+            },
+            {
+              label: 'C++ Guide',
+              to: '/docs/cpp-guide/getting-started/guide-introduction',
             },
             {
               label: 'SHPEathon',
