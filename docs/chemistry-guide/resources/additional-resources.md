@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Additional Resources
 
-![Chemistry Resources](/img/chemistry-resource.jpg)
+![Chemistry Resources](/img/chemistry/chemistry-resource.jpg)
 
 Here are some extra resources to help you learn Chemistry. It's important and almost always best to get multiple perspectives by using different sources.
 

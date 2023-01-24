@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Compounds and Chemical Bonds
 
-![Ionic vs. Covalent Bonds](/img/ionic-vs-covalent.jpg)
+![Ionic vs. Covalent Bonds](/img/chemistry/ionic-vs-covalent.jpg)
 
 Compounds are formed when 2 atoms of different elements bond. These bonds may occur due to atoms wanting to fill their valence shell with electrons, or give away electrons to have an octet. This is because having a full octet (full valence shell) makes atom stable.
 

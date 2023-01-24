@@ -6,7 +6,7 @@ sidebar_position: 6
 
 Although there are many atomic orbitals and electrons could simply fill them up without regard for order or structure, there are methods and several rules accompanying the distribution of electrons.
 
-![Electron Configuration (Afbau Principle)](/img/utilizing-aufbau-principle.png)
+![Electron Configuration (Afbau Principle)](/img/chemistry/utilizing-aufbau-principle.png)
 
 This diagram utilizes Aufbau's Principle  to determine the order in which orbitals and subshells are filled with electrons. The electron configuration of a given element can be found by adding electrons to the lowest energy orbitals and progressing until no more electrons can be added. The image above shows which orbitals are filled first and which follow (also showcasing their increasing energy levels).
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Phase Diagrams
 
-![Phase Diagram Example](/img/phase-diagram.jpg)
+![Phase Diagram Example](/img/chemistry/phase-diagram.jpg)
 
 These diagrams show the state of an element or molecule depending on the temperature and pressure. The melting and boiling points both vary with temperature and pressure. Most often, the "normal" melting and boiling points occur at around 1 atm (1 atmosphere of pressure or 101.3 kpa).
 
@@ -16,7 +16,7 @@ The names for the different state transitions are shown above, such as melting/f
 
 ## Vapor Pressure
 
-![Vapor Pressure Example](/img/vapor-pressure.png)
+![Vapor Pressure Example](/img/chemistry/vapor-pressure.png)
 
 In most liquids, there's always a fraction of molecules that will evaporate. This evaporated liquid (now a gas) will form a layer of vapor around the rest of the liquid. 
 

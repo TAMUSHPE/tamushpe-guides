@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Standard Entropy of Reaction
 
-![Formula](/img/standard-entropy.png)
+![Formula](/img/chemistry/standard-entropy.png)
 
 Where n and m are the stoichiometric coefficients of each product or reactant.
 

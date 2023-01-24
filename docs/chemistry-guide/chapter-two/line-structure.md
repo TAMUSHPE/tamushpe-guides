@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Line Structure
 
-![](/img/line-structure.jpg)
+![](/img/chemistry/line-structure.jpg)
 
 Line structures are visual representations of organic compounds (compounds containing carbon). Carbon and the hydrogen atoms attached are not shown explicitly.
 

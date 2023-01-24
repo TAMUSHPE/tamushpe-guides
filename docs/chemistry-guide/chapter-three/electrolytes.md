@@ -4,13 +4,13 @@ sidebar_position: 3
 
 # Electrolytes
 
-![Electrolyte Comparison](/img/electrolyte-comparison.jpg)
+![Electrolyte Comparison](/img/chemistry/electrolyte-comparison.jpg)
 
 Electrolytes are substances that, when dissolved in water, conduct electricity. Non-electrolytes are substances that don't conduct electricity when dissolved in water.
 
 ## Strong and Weak Electrolytes
 
-![Solubility Chart](/img/solubility-chart.jpg)
+![Solubility Chart](/img/chemistry/solubility-chart.jpg)
 
 There are 2 kinds of electrolytes, strong and weak. Strong electrolytes exist in solutions and tend to completely dissociate and break down into ions. The following are strong electrolytes - 
 * All strong soluble salts (shown above)

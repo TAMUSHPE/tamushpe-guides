@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Intermolecular Forces
 
-![Intermolecular Forces Diagram](/img/intermolecular-forces.png)
+![Intermolecular Forces Diagram](/img/chemistry/intermolecular-forces.png)
 
 Most of the forces that have been covered in chemistry have been within molecules, known more commonly as `intramolecular forces`. This section will cover `intermolecular forces`, known as the forces **between** molecules. This excludes covalent, ionic, and molecular bonds (they are all intramolecular).
 

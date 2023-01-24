@@ -8,7 +8,7 @@ The shape of a molecule is determined by several things, with one of the most im
 
 ## VSEPR
 
-![VSEPR Image](/img/vsepr.jpg)
+![VSEPR Image](/img/chemistry/vsepr.jpg)
 
 This acronym stands for "Valence Shell Electron Repulsion Theory", which essentially says that electron pairs will try and push each other so they are placed as far apart as they can to minimize this repulsion.
 
@@ -16,7 +16,7 @@ Additional information on this theory can be found [here.](https://www.youtube.c
 
 ## Electron Domains
 
-![Electron Domain Example](/img/electron-domains.jpg)
+![Electron Domain Example](/img/chemistry/electron-domains.jpg)
 
 To determine the Electron Domain of a molecule or polyatomic ion, look at the central atom and find the number of lone pairs of electrons plus the number of atoms bonded to the central atom.
 
@@ -24,7 +24,7 @@ The Electron Domain Geometry is often not the shape of the molecule, this is usu
 
 ## Molecular Geometry
 
-![Molecular Geometry Example](/img/molecular-geometries.jpg)
+![Molecular Geometry Example](/img/chemistry/molecular-geometries.jpg)
 
 The molecular geometry of a molecule or polyatomic ion is defined by the positions of only the atoms, not the nonbonding lone electron pairs.
 

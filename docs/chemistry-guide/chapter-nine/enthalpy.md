@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Enthalpy
 
-![Enthalpy Formula](/img/enthalpy.jpg)
+![Enthalpy Formula](/img/chemistry/enthalpy.jpg)
 
 This is defined as heat flow under constant pressure. Enthalpy is a state function too which means it only depends on the initial/beginning and final states. The variable `H` represents enthalpy.
 

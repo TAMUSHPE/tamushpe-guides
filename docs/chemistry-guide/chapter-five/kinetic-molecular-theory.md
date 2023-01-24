@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Kinetic Molecular Theory
 
-![Kinetic Molecular Theory](/img/kinetic-molecular-theory.png)
+![Kinetic Molecular Theory](/img/chemistry/kinetic-molecular-theory.png)
 
 The Kinetic Molecular Theory and its statements are only true if a gas behaves ideally, and the other way around. This theory explains why gases behave the way they do, and how volume, pressure, temperature, and moles of a gas are all related.
 

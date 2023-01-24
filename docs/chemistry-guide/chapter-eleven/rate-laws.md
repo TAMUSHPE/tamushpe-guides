@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Rate Laws
 
-![Rate Laws General Formula](/img/rate-laws.png)
+![Rate Laws General Formula](/img/chemistry/rate-laws.png)
 
 Rate laws essentially use concentration and relate it to the reaction rate.
 
@@ -20,7 +20,7 @@ The general formula is shown above, with several variables included.
 
 ## Reaction Order
 
-![Different Order Reactions](/img/reaction-orders.png)
+![Different Order Reactions](/img/chemistry/reaction-orders.png)
 
 There are several orders of reaction, varying from 0<sup>th</sup> order up until the i<sup>th</sup> order. The most common you'll find are 0<sup>th</sup> order, 1<sup>st</sup> order, and 2<sup>nd</sup> order.
 
@@ -30,13 +30,13 @@ Each of these different ordered reactions relies on the value of n. The higher t
 
 ## Example
 
-![Rate Law Example](/img/rate-law-ex.PNG)
+![Rate Law Example](/img/chemistry/rate-law-ex.PNG)
 
 In the example above, you're asked to find the rate law of the equation. There are 2 parts to this because you need both `n` and `m` in order to find the overall reaction order.
 
 So to do this you first have to find the ratio of 2 different rates, along with the ratio of 2 different molarities of 2 respective molecules/elements. In doing this you cancel out the `k` constant, and factor out the `n`, leaving you with a simplified equation. To find `n` value, you then solve by plugging in the given values and finding that `n` = 2.
 
-![Rate Law Example pt.2](/img/rate-law-ex2.PNG)
+![Rate Law Example pt.2](/img/chemistry/rate-law-ex2.PNG)
 
 In the 2nd part of the question, you're asked to find the order of O<sub>2</sub>. To find this, you need to again go through the same process as above. The resulting answer is `m` = 1, which when combined with `n` gives the overall reaction order which is 3!
 

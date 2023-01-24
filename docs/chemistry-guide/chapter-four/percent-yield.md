@@ -12,4 +12,4 @@ In an actual reaction, the amount of product formed is usually less than predict
 
 **Actual yield:** the amount of product `obtained` from the reaction.
 
-![Percent Yield Formula](/img/percent-yield.png)
+![Percent Yield Formula](/img/chemistry/percent-yield.png)

@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Heat Capacity
 
-![Heat Capacity Example](/img/specific-heat.jpg)
+![Heat Capacity Example](/img/chemistry/specific-heat.jpg)
 
 This property, heat capacity, is largely important in thermodynamics and in both this and the next chapter. 
 

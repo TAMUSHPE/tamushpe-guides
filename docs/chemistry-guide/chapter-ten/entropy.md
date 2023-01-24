@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # Entropy
 
-![Entropy Example](/img/entropy.jpg)
+![Entropy Example](/img/chemistry/entropy.jpg)
 
 Entropy can be described as the “disorder” of a substance. 
 

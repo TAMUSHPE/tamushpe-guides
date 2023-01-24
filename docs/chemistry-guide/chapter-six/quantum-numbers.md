@@ -4,7 +4,7 @@ sidebar_position: 5
 
 # Quantum Numbers & Atomic Orbitals
 
-![Quantum Numbers Example](/img/electron-configuration.jpg)
+![Quantum Numbers Example](/img/chemistry/electron-configuration.jpg)
 
 Over many years, flaws were found within the Bohr model. Schrodinger then came up with another model which instead of having distinct levels, contained a density map with probabilities of where electrons could be at a certain point in time.
 
@@ -43,7 +43,7 @@ Orbitals are what describe the specific distribution of electron density in spac
 
 ## Atomic Orbitals
 
-![Quantum Number Chart](/img/quantum-numbers-diagram.jpg)
+![Quantum Number Chart](/img/chemistry/quantum-numbers-diagram.jpg)
 
 The diagram above serves as a visual representation of Quantum Numbers and shows the relevance of atomic orbitals.
 

@@ -8,7 +8,7 @@ There may be multiple Lewis Dot Structures for a molecule or polyatomic ion, so 
 
 ## Resonance
 
-![Resonance Structure Example](/img/resonance-example.jpg)
+![Resonance Structure Example](/img/chemistry/resonance-example.jpg)
 
 In some cases, there will be multiple ways to draw a Lewis Dot Structure for a molecule or polyatomic ion.
 
@@ -16,7 +16,7 @@ When this happens, the molecule goes between the possible structures and is both
 
 ## Formal Charge
 
-![Formal Charge Example](/img/formal-charge.jpg)
+![Formal Charge Example](/img/chemistry/formal-charge.jpg)
 
 Formal charges are most often used to find the best Lewis Dot Structure, which is always the one that has the lowest formal charge.
 

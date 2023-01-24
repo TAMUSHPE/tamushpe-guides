@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Heat Transfer & Calorimetry
 
-![Heat Transfer Equation](/img/q-mcat.png)
+![Heat Transfer Equation](/img/chemistry/q-mcat.png)
 
 The formula shown above is one of the most common you will see throughout this chapter, it connects heat, mass, specific heat, and temperature change.
 
@@ -28,12 +28,12 @@ Another important thing to note is that q<sub>reaction</sub> = - q<sub>calorimet
 
 ### Coffee cup calorimetry
 
-![Coffee Cup Formula](/img/coffee-cup.jpg)
+![Coffee Cup Formula](/img/chemistry/coffee-cup.jpg)
 
 These types of calorimetry have their independent formulas and vary slightly as shown above for the coffee cup.
 
 ### Bomb Calorimetry
 
-![Bomb Calorimetry Formula](/img/bomb-calorimeter.jpg)
+![Bomb Calorimetry Formula](/img/chemistry/bomb-calorimeter.jpg)
 
 The above image shows the different formulas that can be used when dealing with bomb calorimeters.

@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Reaction Rates
 
-![Reaction Rate General Concept](/img/reaction-rate-concentration.PNG)
+![Reaction Rate General Concept](/img/chemistry/reaction-rate-concentration.PNG)
 
 Reaction rates are very different depending on the substances involved, concentrations, temperatures, solvents, and surface area. Because of this, several formulas are used to keep track of the different reaction rates.
 
@@ -14,7 +14,7 @@ The main factor when it comes to reaction rates, however, is concentration. The 
 
 ## Example
 
-![General Example](/img/reciprocal-rates.png)
+![General Example](/img/chemistry/reciprocal-rates.png)
 
 In the above example, O<sub>2</sub> is being combined with a photon, producing 2O (g).
 

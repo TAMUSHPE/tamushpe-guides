@@ -8,7 +8,7 @@ Although atoms come in all different sizes and have many different properties, t
 
 ## Atomic Radii
 
-![Atomic Radii Image](/img/atomic-radii-trend.png)
+![Atomic Radii Image](/img/chemistry/atomic-radii-trend.png)
 
 The size of an atom is largely dictated by the number of protons and electrons it contains. `Atomic Radii` increases when moving from right to left across the periodic table, and moving from top to bottom.
 
@@ -18,7 +18,7 @@ The reason that atomic radii (or the size of an atom) decrease going from left t
 
 ## Ionization Energy
 
-![Ionization Energy & Electron Affinity](/img/periodic-trends.png)
+![Ionization Energy & Electron Affinity](/img/chemistry/periodic-trends.png)
 
 > Note: Although ionization energy and electron affinity both have the same periodic trend, they are 2 very different things.
 
@@ -32,7 +32,7 @@ Because noble gases have a full octet (8 electrons) in their outermost shell (ex
 
 ## Electron Affinity
 
-![Change in Energy](/img/electron-affinity.png)
+![Change in Energy](/img/chemistry/electron-affinity.png)
 
 `Electron affinity` on the other hand, represents the change in energy that comes with adding an electron to an atom. This energy change is **negative** when an atom wants the electron, so when it is added energy is released (hence the negative symbol). However, when measuring the electron affinity of atoms such as `neon` (a noble gas), the electron affinity is **positive**. Why is this? Well, the neon atom is happy with its full octet, so it doesn't want to accept another electron. The energy "released" is then **positive** because it will take extra energy to force `neon` to accept the extra electron.
 

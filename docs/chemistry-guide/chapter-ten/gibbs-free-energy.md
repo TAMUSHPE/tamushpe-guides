@@ -8,7 +8,7 @@ sidebar_position: 4
 
 * The formula is: **∆G = ∆H - T∆S**
 
-![Gibbs Free Energy Image](/img/gibbs-free-energy.png)
+![Gibbs Free Energy Image](/img/chemistry/gibbs-free-energy.png)
 
 For example:
 
@@ -34,6 +34,6 @@ Similar to ∆S, If a reaction is carried out in a series of steps, **∆G** for
 
 ## Crossover Temperature
 
-![Crossover Temperature Image](/img/crossover-temperature.png)
+![Crossover Temperature Image](/img/chemistry/crossover-temperature.png)
 
 When the equation ∆G° = ∆H° - T∆S° is at equilibrium,  ∆G = 0. This point is the crossover of two lines as shown in the diagram below. The temperature at this crossover is usually the boiling point or melting point.

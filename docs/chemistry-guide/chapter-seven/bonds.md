@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Bonds
 
-![Sigma & Pi bond examples](/img/sigma-and-pi.png)
+![Sigma & Pi bond examples](/img/chemistry/sigma-and-pi.png)
 
 Earlier in the year, different types of chemical bonds were talked about. These included ionic, covalent, and metallic bonds. Within covalent bonds, there are different naming conventions used. The most common are `sigma` and `pi`, used to term the number of covalent bonds between 2 atoms.
 
@@ -14,7 +14,7 @@ Pi bonds on the other hand are shown by the `π` symbol. Double bonds are 1 sigm
 
 ## Strength & Length
 
-![Bond Strength Example](/img/bond-strength.png)
+![Bond Strength Example](/img/chemistry/bond-strength.png)
 
 Bond strength and length are directly related to the number of electrons shared between 2 atoms. The more atoms are shared, the stronger and shorter the bond will be.
 
@@ -22,7 +22,7 @@ Generally, `Triple bonds > Double bonds > Single bonds`, when it comes to the st
 
 ## Dipole & Polar Bonds
 
-![Dipole Example](/img/dipole-moment.jpg)
+![Dipole Example](/img/chemistry/dipole-moment.jpg)
 
 Molecules can be either non-polar or polar, and when they're polar they have a `dipole moment`. Dipole moments create a positive and negative side of a molecule, with the molecule's atoms and electrons shifting accordingly.
 

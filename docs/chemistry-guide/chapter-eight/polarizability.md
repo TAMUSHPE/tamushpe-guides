@@ -8,7 +8,7 @@ Polarizability is a large factor in determining how greatly a molecule is affect
 
 ## Miscibility
 
-![Miscible Example](/img/miscibile.jpg)
+![Miscible Example](/img/chemistry/miscibile.jpg)
 
 This property describes 2 substances that are mixable together. Something may be miscible if it can dissolve in another substance.
 

@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Bohr Model and Electronic Structure
 
-![Bohr Model Image](/img/bohr-atom.png)
+![Bohr Model Image](/img/chemistry/bohr-atom.png)
 
 In the Bohr Model, electrons are depicted as orbiting the nucleus in levels. Additionally, there are two distinct states that can exist within each atom or molecule.
 
@@ -12,11 +12,11 @@ In the Bohr Model, electrons are depicted as orbiting the nucleus in levels. Add
 
 The two states that exist within the Bohr model of the atom are the `ground state` and the `excited state`. The ground state refers to the lowest energy state of an atom, while the excited state refers to an atom absorbing energy and its electrons being promoted to a higher energy orbital. 
 
-![Energy Transition Diagram](/img/energy-transitions.png)
+![Energy Transition Diagram](/img/chemistry/energy-transitions.png)
 
 The process of an atom obtaining energy and promoting electrons to outer orbitals is called `absorption`, where the atom aquires or "absorbs" photons. For example, when an atom gains energy through photons, its electrons may jump from the n = 1 orbital up to the n = 2 orbital. This excited state, however, cannot exist forever due to the electrons losing that energy and transitioning back down to ground state through a process known as `emission`. In emission, an atom releases or "emits" photons or energy and transitions back down to the original ground state.
 
-![Energy Formula's](/img/energy-transitions-formulae.jpg)
+![Energy Formula's](/img/chemistry/energy-transitions-formulae.jpg)
 
 The emission and/or absorption wavelengths can be calculated using the formulas shown above, alongside the energy it may take to transition from different orbital levels.
 

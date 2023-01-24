@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Energy & Heat
 
-![Energy Formula](/img/change-in-energy.jpg)
+![Energy Formula](/img/chemistry/change-in-energy.jpg)
 
 Energy is the capacity to do work (denoted by `w`) or transfer heat (denoted by `q`). Usually, energy is measured in Joules or Calories.
 
@@ -18,7 +18,7 @@ Before talking about what ∆E is (as shown above), it's important to understand
 
 ## State & Path Functions
 
-![State vs. Path](/img/state-vs-path.jpg)
+![State vs. Path](/img/chemistry/state-vs-path.jpg)
 
 To describe a process, it is usually called a `state` or `path` function.
 

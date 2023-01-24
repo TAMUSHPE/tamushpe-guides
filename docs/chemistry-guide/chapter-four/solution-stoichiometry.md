@@ -4,7 +4,7 @@ sidebar_position: 3
 
 # Solution Stoichiometry
 
-![Stoichiometry Example](/img/solution-stoichiometry.png)
+![Stoichiometry Example](/img/chemistry/solution-stoichiometry.png)
 
 `Solution Stoichiometry` allows us to quantify the amount of a substance in a solution. Stoichiometry allows us to work in a solution by giving us the concept of solution concentration, or molarity.
 

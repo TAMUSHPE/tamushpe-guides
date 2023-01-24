@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Lewis Dot Structure
 
-![Image of Lewis Dot Structure](/img/lewis-dot-structure.jpg)
+![Image of Lewis Dot Structure](/img/chemistry/lewis-dot-structure.jpg)
 
 These are representations of molecules and show all the valence electrons, bonds (represented by lines), and nonbonding (represented by dots).
 
@@ -28,7 +28,7 @@ Generally, each atom has 8 electrons in its valence shell (with the exception of
 
 ## Octet Rule Exceptions
 
-![Octet Rule Exceptions Example](/img/octet-rule-exceptions.png)
+![Octet Rule Exceptions Example](/img/chemistry/octet-rule-exceptions.png)
 
 There are some cases where the octet rule does not apply. Usually, this occurs at and beyond the 3rd row of the Periodic Table. These atoms can have expanded octets, meaning that they have more than 8 valence electrons in their outer shell.
 
