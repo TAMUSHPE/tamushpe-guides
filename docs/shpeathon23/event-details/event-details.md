@@ -18,7 +18,7 @@ Collaborate with fellow SHPE members during a weekend-long competition to launch
 
 ## 📅 Schedule
 <!-- FIXME: Change "Office Hours" name -->
-|             | <BlueText text="Friday (2/4)"></BlueText>      | <BlueText text="Saturday (2/5)"></BlueText>   | <BlueText text="Sunday (2/6)"></BlueText>     |
+|             | <BlueText text="Friday (2/3)"></BlueText>      | <BlueText text="Saturday (2/4)"></BlueText>   | <BlueText text="Sunday (2/5)"></BlueText>     |
 | ----------- | ----------- | ----------- | ----------- |
 | ** <BlueText text="Event:"></BlueText> **       | Kick-off Meeting       | Workday/Mini Games | Final Presentations     |
 | ** <BlueText text="Location:"></BlueText> **    | JEB 102     | Zachary     | JEB 102         |
