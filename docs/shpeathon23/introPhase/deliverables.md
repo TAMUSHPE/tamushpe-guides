@@ -41,8 +41,7 @@ The following questions are meant to help you solidify what your product will be
 ```
 1. Explain the main functionality of your product? 
 
-2. Who is the target audience of this product? What type of student is most
-   likely to use your product?
+2. Who is the target audience of this product?
 
 3. Explain the need for your product and provide supporting research for your claim? 
 
@@ -71,7 +70,7 @@ The main principles that guide all of a company's actions. These values serve as
 
 Read the description for each role and assign them to someone on the team who would best fit the position. ** In your document, please explain why each person was assigned to their role and why you believe they will succeed. ** 
 
-The positions and their descriptions are shown in the [Company Roles](/docs/shpeathon23/introPhase/deliverables.md) page, check it out if you want a brief overview of their responsibilities.
+The positions and their descriptions are shown in the [Company Roles](/docs/shpeathon23/introPhase/company-roles.md) page, check it out if you want a brief overview of their responsibilities.
 
 Make sure to include:
 

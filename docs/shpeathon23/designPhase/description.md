@@ -14,8 +14,7 @@ The Design Phase provides your team with the opportunity to explore all potentia
 
 ```
 1. Product Planning
-2. Design Documents
-3. Product Refinement
-4. Sustainability
-5. Diversity & Inclusion
+2. Description
+3. Design Documents
+4. Product Refinement
 ```
