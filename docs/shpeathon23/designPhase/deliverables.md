@@ -13,6 +13,8 @@ Research different types of documents that will help your team brainstorm ideas.
    2. Be creative and create your own
    3. Anything else that conveys ideas & thought process
 
+![Mind Map](/img/shpeathon-mind-map.png)
+
 ## Description of Product
 
 **Add a brief description of your product in a seperate section, make sure to mention what makes it sustainable, inclusive, and ethical.**
