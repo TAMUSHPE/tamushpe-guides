@@ -48,6 +48,6 @@ Collaborate with fellow SHPE members during a weekend-long competition to launch
 
 ## 📲 Communication
 
-Join the GroupMe: [Here](https://tech.tamushpe.org/docs/shpeathon/event-details/) <!-- FIXME: Change the link -->
+Join the GroupMe: [Here](https://groupme.com/join_group/91995898/PWbOt5G3)
 
 Check out the [FAQ](/docs/shpeathon23/event-details/faq.md) section for answers to commonly asked questions, including the location of pre-reserved team work rooms for Friday night. If you have any other questions, please let me know.

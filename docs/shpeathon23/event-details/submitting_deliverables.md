@@ -10,8 +10,6 @@ sidebar_position: 2
 
 Throughout the course of the competition, several deliverables will need to be submitted. Each team will have their own folder inside of a shared google drive that they will need to upload completed files to. Be sure to follow the naming instructions for your files so we know what's what.
 
-<!-- FIXME: Change link -->
-
-Use this Google Drive link to upload your files: [https://tech.tamushpe.org/docs/shpeathon/event-details/submitting_deliverables](https://tech.tamushpe.org/docs/shpeathon/event-details/submitting_deliverables)
+Use this Google Drive link to upload your files: [Google Drive](https://urldefense.com/v3/__https://drive.google.com/drive/folders/1aAfzbnV5SQwwayJb2fKGw5d4K5HLuV1V?usp=sharing__;!!KwNVnqRv!HsB8f_l3Z3L0rc__A5aS5hsPODmfQA9CSZrhzAybLsxnujqleUv-uZMZ73xTdVHMovY6L5Q-_PSTvG1ZnaiqEC8v$)
 
 **Make sure to submit your deliverables on time!**
