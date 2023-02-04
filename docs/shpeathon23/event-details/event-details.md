@@ -22,7 +22,7 @@ Collaborate with fellow SHPE members during a weekend-long competition to launch
 | ----------- | ----------- | ----------- | ----------- |
 | ** <BlueText text="Event:"></BlueText> **       | Kick-off Meeting       | Workday/Mini Games | Final Presentations     |
 | ** <BlueText text="Location:"></BlueText> **    | JEB 102     | Zachary     | JEB 102         |
-| ** <BlueText text="Time:"></BlueText> **       | 6:30pm         |  <BlueText text="**"></BlueText>  10am-6pm       | 11am          |
+| ** <BlueText text="Time:"></BlueText> **       | 6:30pm         |  <BlueText text="**"></BlueText>  10am-6pm       | 12pm          |
 | ** <BlueText text="Attire:"></BlueText> **       | Casual         | Casual       | Business Casual          |
 
 <BlueText text="** There is a mandatory Sales Pitch @ 4pm, more information will be sent out Saturday."></BlueText> 
