@@ -14,7 +14,7 @@ For now, we will be setting up the background of the website and we will also be
 
 This will make the website display the text inside the h1 tags as the heading. The h1 tag will be used to display your most important header. There are also other tags that are used to place less important headers into the program, those being h2 - h6. To see how it came out, open up your live server (__ALT + L, ALT + O__) and you will now see your text look like the following:
 
-![Original Title](title_original.PNG "Original Title")
+![Original Title](/img/new-pw/title_original.PNG "Original Title")
 
 ---
 
@@ -56,6 +56,6 @@ h1 {
 
 Here, we set margin to auto, which will center the text because of the flex display, color to the white variable from root, and scale to 2, which will make the text twice as big. Now open up your live server, and your website should look like this:
 
-![Week-1-Final](website_week1.PNG "Final Product Week 1")
+![Week-1-Final](/img/new-pw/website_week1.PNG "Final Product Week 1")
 
 Next, we will push the new code to Github.
