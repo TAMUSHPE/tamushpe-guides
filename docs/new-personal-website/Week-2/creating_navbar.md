@@ -9,8 +9,11 @@ To create the navbar, we will first remove our current heading and we will also 
 __HTML:__
 
 ``` html
+<!-- REMOVE THIS LINE -->
 <h1>Rev's Website</h1>
 ```
+
+Now, in __main.css__, go ahead and add this.
 
 __CSS:__
 ``` css
@@ -33,7 +36,7 @@ In this area of the CSS, most of the values are straightforward except for the p
 
 ---
 
-To begin, we will separate a section of our code for the navbar and set up our design.
+Now we can begin to implement our navbar. To do this, we will separate a section of our code for the navbar and set up our design.
 
 ``` html 
 <body>

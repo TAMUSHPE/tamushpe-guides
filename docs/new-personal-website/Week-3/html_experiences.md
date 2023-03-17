@@ -6,7 +6,7 @@ sidebar_position: 2
 
 For this section, we will be implementing a carousel. A carousel is a list like structure that displays one item and can change the item based on a left and right button. We will use this to display the different experiences you have that you can talk about in a professional setting.
 
-To begin, we will set apart a section in the html file for this. It will look like the following:
+To begin, we will set apart a section in __index.html__ for this. It will look like the following:
 
 ```html
 <!-- Heading code here -->

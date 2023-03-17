@@ -33,16 +33,21 @@ We will write out all the styling under the comment. We will begin by styling al
 
     color: var(--white);
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-evenly;
     align-items: center;
-    height: 50vh;
+    height: 100vmin;
     border-top: solid 1px white;
     border-bottom: solid 1px white;
 
 }
 ```
 
-This will set all the text inside the header div to white. The next three properties will position the elements to be side by side, in the horizontal center, and spaced evenly horizontally. The height attribute is used to make the div larger vertically. I used the vh units as they scale themselves when changing size of screens. This takes care of text color and positioning. The border-top and border-bottom attributes will set the border of the div to have a solid white line on its top and bottom edges.
+This will set all the text inside the header div to white. The next three properties will position the elements to be side by side, in the horizontal center, and spaced evenly horizontally. After this, I set the flex-wrap attribute to wrap, which will make the objects that overflow get placed below the objects that would be to the left of them. This is done so that whenever we have a smaller screen, we do not tightly pack the objects and it is more visually appealing. The height attribute is used to make the div larger vertically, I set it to 50vmin, which takes the smaller length of the viewport. I used the vh units as they scale themselves when changing size of screens. This takes care of text color and positioning. The border-top and border-bottom attributes will set the border of the div to have a solid white line on its top and bottom edges.
+
+---
+
+Note: vmin takes the width as a reference if it is smaller than the height, or the height as a reference if it is smaller than the width. Also, vmax does the opposite. These units will be useful when displaying your website on a smaller device, as screens are not always the same size.
 
 ---
 
@@ -59,7 +64,7 @@ Next, we will set up the background image in the header. To do this, we will use
     background-image: url("images/tamu.jpg");
     background-size: cover;
     opacity: .3;
-    height: 60vh;
+    height: 100vmin;
     transform: translateY(53.6px);
 
 }
@@ -69,16 +74,37 @@ Here, we use #header::after as a way to insert content into the header div after
 
 ---
 
-Next, we will change the size of the paragraph div to make the alignment look more centered. For this, I changed the width of the p tags in the header div to 50 vw, which is 50% of the viewport's width.
+Next, we will change the size of the text within the header to make the text section look cleaner.
 
 ``` css
+#text {
+
+    text-align: center;
+
+}
+
+
 #header p {
 
-    width: 50vw;
-    font-size: 1vw;
+    width: 40vh;
+    font-size: 1.5vmax;
+
+}
+
+#header h2 {
+
+    font-size: 3vmax;
+
+}
+
+#header h3 {
+
+    font-size: 2vmax;
 
 }
 ```
+
+For the text div, we set the text-align to center, which will center all the text within its respective container. Next, we edit the p, h2, and h3 font sizes within the header div. This is to make it fit nicely into the header. Lastly, we set the width of the p attribute to 40vh. This will make it so that when we switch to a smaller screen, the text aligns itself below the headshot.
 
 ---
 
@@ -87,8 +113,8 @@ To finish, we are going to style the headshot. To do this, we will set the heigh
 ``` css
 #headshot {
 
-    height: 30vh;
-    width: 30vh;
+    height: 30vmin;
+    width: 30vmin;
     border-radius: 100%;
     border: solid white 2px;
 
