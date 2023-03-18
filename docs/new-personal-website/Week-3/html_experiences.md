@@ -12,27 +12,28 @@ To begin, we will set apart a section in __index.html__ for this. It will look l
 <!-- Heading code here -->
 
 <!-- Experiences -->
-<section id="experiences">
+
+<div id="experiences">
     <h1>Experiences<h1>
-</section>
+</div>
 ```
 
 Next, we are going to create a div that will hold the carousel. 
 
 ``` html
-<section id="experiences">
+<div id="experiences">
 
     <h1>Experiences</h1>
 
     <div id="expContainer"></div>
 
-</section>
+</div>
 ```
 
 Next, we will create the actual carousel. For this, we need a div that will be the size of the carousel. Make sure the names from here on out are the same as mine, if they are not the JavaScript portion of this will be very difficult.
 
 ``` html
-<section id="experiences">
+<div id="experiences">
 
     <h1>Experiences</h1>
 
@@ -42,13 +43,13 @@ Next, we will create the actual carousel. For this, we need a div that will be t
 
     </div>
 
-</section>
+</div>
 ```
 
 Next, we need the container for the track (which is where the experiences will go), the two buttons, and the indicators that will let the user know which project they are on.
 
 ```html
-<section id="experiences">
+<div id="experiences">
 
     <h1>Experiences</h1>
 
@@ -67,7 +68,7 @@ Next, we need the container for the track (which is where the experiences will g
 
     </div>
 
-</section>
+</div>
 ```
 
 Here, you may notice that the left button has a class named __is-hidden__. We will use this to hide the left and right buttons when they are not applicable. Also, the section named __exp-carousel__nav__ will hold the indicators. We can also see a class in the indicator that says __exp-current-slide__. This class will tell the CSS which indicator to light up with each current slide when we are rotating through our experiences.
@@ -75,7 +76,7 @@ Here, you may notice that the left button has a class named __is-hidden__. We wi
 Next, we will create the actual track.
 
 ``` html
-<section id="experiences">
+<div id="experiences">
 
     <h1>Experiences</h1>
 
@@ -97,13 +98,13 @@ Next, we will create the actual track.
 
     </div>
 
-</section>
+</div>
 ```
 
 Here, all I added was an unordered list. These structures can take many elements, such as divs, links, photos, and much more and turn them into a list. This structure makes the carousel possible as it uses the list as a way to know which element to show when clicking the next button and previous button. Now, we need to add elements to the list. We do so by using a __li__ tag, which represents a list element.
 
 ``` html
-<section id="experiences">
+<div id="experiences">
 
     <h1>Experiences</h1>
 
@@ -158,7 +159,7 @@ Here, all I added was an unordered list. These structures can take many elements
 
     </div>
 
-</section>
+</div>
 ```
 
 This new code may look intimidating, but it is not too bad once you see the pattern. Our first list element will contain a class different to the other ones. It will have __exp-carousel__slide__ and __exp-current__slide__. Here, the first one is not too important as it only denotes that it is a slide. However, the second class denotes that it is the __current__ slide that we are working with. There should only be one slide at a time with this attribute. Next, we have a div inside the list element to hold all the content that the element will have. Inside this div, we will have an __h3__ header that will hold the heading of our experience, an image that will showcase what we did, and a __p__ section that will give a description of what we did. Do this with as many list elements as you would like, but make sure they match the amount of indicators you have. This is why my code was so long, I needed 3 to match the indicators. But don't be intimidated by the length of it as it all follows the same pattern.

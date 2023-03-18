@@ -7,6 +7,8 @@ sidebar_position: 2
 For the HTML of the education tab, we will need a container for everything, an image, and a container that will hold all the text for the description. To begin, we will create a div that will hold the entire section.
 
 ```html
+<!-- Education -->
+
 <div id="education">
 </div>
 ```
