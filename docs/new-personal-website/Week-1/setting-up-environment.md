@@ -16,12 +16,12 @@ To make a Github account, to go to [Github's website](https://github.com/ "Githu
 
 Next, you will need to download the Live Server extentsion for VSCode. To do this, open VSCode, and click the following icon on the left sidebar:
 
-![Extensions Icon](extensions.png "Extensions Icon")
+![Extensions Icon](/img/new-pw/extensions.png "Extensions Icon")
 
 
 Once you press this icon, type __"Live Server"__ in the search bar and click on the logo that looks like the following image:
 
-![Live Server Icon](live_server.PNG "Live Server Icon")
+![Live Server Icon](/img/new-pw/live_server.PNG "Live Server Icon")
 
 Once you are in the Live Server page, install the extension and while you're at it, install some themes to make your VSCode look nice!
 
