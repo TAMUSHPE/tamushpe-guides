@@ -36,6 +36,12 @@ module.exports = {
       items: [
         {
           type: 'doc',
+          docId: 'personal-website3/intro/introduction',
+          position: 'right',
+          label: 'Ultimate Personal Website',
+        },
+        {
+          type: 'doc',
           docId: 'personal-website/Purpose/introduction',
           position: 'right',
           label: 'Personal Website',
@@ -85,6 +91,10 @@ module.exports = {
         {
           title: 'Pages',
           items: [
+            {
+              label: 'Ultimate Personal Website',
+              to:'/docs/personal-website3/intro/introduction',
+            },
             {
               label: 'Personal Website',
               to: '/docs/personal-website/Purpose/introduction',
