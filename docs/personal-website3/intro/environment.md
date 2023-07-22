@@ -8,7 +8,7 @@ To set up for programming your personal website, you need to download two apps. 
 
 ---
 
-To make a Github account, to go to [Github's website](https://github.com/ "Github"). Once there, there will be a button on the top right of the screen that says sign up. Click on it, and make your account using your preferred method. After this, open up Github Desktop and sign into your new account.
+To make a Github account, to go to [Github's website](https://github.com/ "Github"). Once there, there will be a button on the top right of the screen that says sign up. Click on it, and make your account using your preferred method. After this, open up VSCode and sign into your new account.
 
 ---
 

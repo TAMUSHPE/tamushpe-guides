@@ -4,7 +4,7 @@ sidebar_position: 2
 
 # 🧩 Components
 
-Your professional website will contain the following components, which will help demonstrate who you are as a person and what you’ve accomplished as a student.
+Your personal website will have the following components, which will help demonstrate who you are as a person and what you’ve accomplished as a student and/or professional.
 
 ## Website Sections
 
