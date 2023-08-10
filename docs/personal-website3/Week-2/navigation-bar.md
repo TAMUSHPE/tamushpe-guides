@@ -155,12 +155,6 @@ body, html {
     scroll-behavior: smooth;
 }
 
-/* Example on how you would use the global "--text-color" variable */
-/* Implementing shadow and parallax effect for landing page image */
-.background-img {
-    background-image: url(./assets/background-image2.jpg);
-}
-
 /* h1 {
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.48);
 
