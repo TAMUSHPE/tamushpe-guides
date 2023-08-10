@@ -67,7 +67,7 @@ Let's say you don't want to be held to the constraints of just having one color 
 Inside, of **#introduction**, you can add the following line of code and have that image as your background image.
 
 ``` css
-background-image: url("assets/background"); 
+background-image: url("assets/background.jpg"); 
 ```
 
-This is of course if you saved your image as **background**. 
+This is of course if you saved your image as **background** and a **jpg**. 
