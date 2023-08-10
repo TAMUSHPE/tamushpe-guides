@@ -38,7 +38,7 @@ To access IDs, it almost the same thing but now we put a # in front instead of a
 
 ```css
 #titleName{
-    font-family: "Times New Roman";
+    font-family: 'Times New Roman';
     color: #07575b /* Cool blue */;
 }
 ```

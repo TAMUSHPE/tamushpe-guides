@@ -71,9 +71,9 @@ Let's move down a little further now:
 </a>
 ```
 
-These lines of code are linking the image that is your "logo" to the introduction section. <'a href='> is HTML's way of linking. So the top line says, this object is part of Bootstrap's navbar-brand class since we want it to look like a logo, and then links this item to our introduction using our ID *#introduction* that we are going to create here in a moment. 
+These lines of code are linking the image that is your "logo" to the introduction section. <**a href=**> is HTML's way of linking. So the top line says, this object is part of Bootstrap's navbar-brand class since we want it to look like a logo, and then links this item to our introduction using our ID *#introduction* that we are going to create here in a moment. 
 
-Now let's focus on what's going on inside this section. <'img src='> is how we can add images to our website. We use style, to do just that style the image how we want. In this case we are saying that we want our logo to have a width of 45 pixels and a height of 30 pixels. 
+Now let's focus on what's going on inside this section. <**img src=**> is how we can add images to our website. We use style, to do just that style the image how we want. In this case we are saying that we want our logo to have a width of 45 pixels and a height of 30 pixels. The **alt="Logo"** is just in case the image doesn't load for some reason or you don't have an image that matches the image name you put it in the code, an image icon will appear and it will say "Logo" next to it.
 
 ### Assets Folder Creation
 
@@ -94,11 +94,7 @@ Now, let's go ahead and create a folder within our personal-website folder for i
 
 This last part is just making the dropdown toggle to the far right, this is just a great example of why comments are so important. Without the comment at the top, it makes it more confusing to know what this piece of code actually accomplishes.
 
-Okay okay I know this has been a lot, butttttt we are almost there! 
-
-![Kevin Saying thank.](https://media.tenor.com/rskeqG9jhawAAAAC/kevin-office.gif)
-
-This next part of the code you're going to write is the rest of the navigation bar:
+This next part of the code you're going to write is the rest of the navigation bar in your index.html:
 
 ``` html
 	<div class="collapse navbar-collapse" id="navbarNavDropdown">
@@ -119,6 +115,98 @@ This next part of the code you're going to write is the rest of the navigation b
 </nav>
 ```
 
-Now that we have some more of an idea, this part of the navbar should make the most sense. The top is just creating the drop down menu which we have put in the classes **collapse** and **navbar-collapse**. Moving further down we are just linking each title to its respective place in our website.
+Now that we have some more of an idea, this part of the navbar should make the most sense. The top is just creating the drop down menu which we have put in the classes **collapse** and **navbar-collapse**. Moving further down we are just linking each title to its respective place in our website. 
+
+As you can see, we want to link our navbar to each section of our website. I know we haven't made each section yet, but when we do we have to make sure to create the same IDs as the ones listed in this **navbar-nav** object or nothing will happen when we click **About Me** or **Projects** for example.
+
+Lastly, let's talk about that last part of the code. This is where we are creating a button to the right of the navbar that will link to our resume. But Diego, how will we link our resume? That's a good question voice in my head, we first have to copy and paste our resume into the **assets** folder we created earlier. Once we do that, we can access in our HTML... which means we can put it in our website! 🤭
+
+After that, we just close our large nav object with <**/nav**>. 
+
+#### Okay okay I know this has been a lot, butttttt we are almost there! 
+
+![Kevin Saying thank.](https://media.tenor.com/rskeqG9jhawAAAAC/kevin-office.gif)
+
+### CSS
+
+Let's now transition into our main.css file and add the following code to it.
+
+``` css
+body, html {
+    /* Define these as you like */
+
+    /* background-color: ; */
+    background-color: silver; /* rosybrown */
+    /* font-family: ; */
+
+    height: 100vh;
+    width: 100%;
+
+    /* Adjust depending on how you want to implement your background */
+
+    /* background-position: center; */
+    /* background-repeat: repeat; */
+    /* background-size: cover; */
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+
+    /* Use smooth scrolling so that when using "bookmarks" it doesn't instantly teleport you */
+    scroll-behavior: smooth;
+}
+
+/* Example on how you would use the global "--text-color" variable */
+/* Implementing shadow and parallax effect for landing page image */
+.background-img {
+    background-image: url(./assets/background-image2.jpg);
+}
+
+/* h1 {
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.48);
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* -------------------------------- Navigation Bar Section -------------------------------- */
+
+/* Defining the font and size for the Navigation Bar Text */
+nav {
+    font-family: 'Montserrat', sans-serif; /* Orig Segoe UI Symbol */
+    font-size: 17px;
+}
+
+/* Modifying the size of the button for your "Resume" link */
+.btn-sm {
+    font-size: 17px;
+}
+
+/* Changes the color of your Navigation Bar Text */
+.navbar-dark .navbar-nav .nav-link {
+    color: var(--text-color);
+}
+
+/* Cool blur effect to your Navigation Bar Background */
+.navbar {
+    background: rgba(0, 0, 0, 0.25);
+    backdrop-filter: blur(5px);
+    padding-right: 16px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+/* Changes color of button when you hover over it */
+.btn:hover {
+    background: rgba(255, 255, 255, 0.275);
+}
+
+```
+
+The nice thing about css is that it is a lot easier to see what it does. Another reason why this code is so easy is... COMMENTS! They are awesome, they make it very easy to follow along so don't be afraid to add comments when you change something because it will only make it easier when you're looking back at your code!
+
+All done with the navbar now. 😅
+
 
 
