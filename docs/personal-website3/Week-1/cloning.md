@@ -12,13 +12,14 @@ That either sounded mad cool or wack, but either way it's important for a person
 
 First order of business, let's make a repository. Remember, **DO NOT USE GITHUB DESKTOP**. Go to GitHub website and log into your account. From there, on the top right corner of the screen look for a plus sign (+). Click that and then click 'New Repository'. Name the repository however you want that makes sense with your project. For instance, something like personal-website. **Make sure there are no spaces in your name**. 
 
-Once the repository is made, there should be something in the middle that seems like a link. This is an HTTPS link that you can copy by clicking the copy button at the very right of the bar. 
+![GitHub Cloning Image](/img/new-pw/githubCloning.png)
 
-Now, open **Visual Studio Code** and at the bottom where it says terminal type the following: 
+Once the repository is made, there should be something in the middle that seems like a link. This is an HTTPS link that you can copy by clicking the copy button at the very right of the bar.
 
-**git clone personal-website .**
+![Git Clone in VSCode](/img/new-pw/gitCloneVSCode.png)
 
-If your repository name is different than personal-website, type that instead. 
+Now, open **Visual Studio Code** and click on the button which says "Clone Git Repository" and put the same link you copied in this menu and press **Clone from GitHub**.
 
+Voila! You've successfully cloned your repository!
 
 

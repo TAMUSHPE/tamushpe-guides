@@ -57,17 +57,29 @@ In your main.css file let's add the following to the bottom:
 }
 ```
 
-Where it says **--text--color** feel free to put whichever makes you happiest. Remember, the goal of this website is to use to represent you professionally. So don't be afraid to show your personality, but keep that in mind moving forward.
+Where it says **--text--color** feel free to put whichever makes you happiest. If you decide to use --text-color though, note that it's the variable we defined up top which is the color **white**. Remember, the goal of this website is to use to represent you professionally. So don't be afraid to show your personality, but keep that in mind moving forward.
 
 
 ### Cool Background
 
 Let's say you don't want to be held to the constraints of just having one color on your landing page, well we can add a background image. 🤯
 
-Inside, of **#introduction**, you can add the following line of code and have that image as your background image.
+Inside, of your **main.css**, you can uncomment these lines of code and add an image to your assets folder and have that as your background image!
 
 ``` css
-background-image: url("assets/background.jpg"); 
+/* Uncomment the "class" .background-img */
+
+/* Replace "background-image.jpg" with whatever name your image has inside of the "assets" folder */
+.background-img {
+    background-image: url(./assets/background-image.jpg);
+
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.48);
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 ```
 
-This is of course if you saved your image as **background** and a **jpg**. 
+This is of course if you saved your image as **background** and as a **jpg**. If it's named something else or in a different form, make sure to change the name and extension! 

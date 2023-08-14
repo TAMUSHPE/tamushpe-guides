@@ -132,43 +132,23 @@ After that, we just close our large nav object with <**/nav**>.
 Let's now transition into our main.css file and add the following code to it.
 
 ``` css
-body, html {
-    /* Define these as you like */
+/* Implementing shadow and parallax effect for landing page image */
 
-    /* background-color: ; */
-    background-color: silver; /* rosybrown */
-    /* font-family: ; */
+/* .background-img {
+    background-image: url(./assets/background-image.jpg);
 
-    height: 100vh;
-    width: 100%;
-
-    /* Adjust depending on how you want to implement your background */
-
-    /* background-position: center; */
-    /* background-repeat: repeat; */
-    /* background-size: cover; */
-    background-position: center;
-    background-repeat: repeat;
-    background-size: cover;
-
-    /* Use smooth scrolling so that when using "bookmarks" it doesn't instantly teleport you */
-    scroll-behavior: smooth;
-}
-
-/* h1 {
     box-shadow: inset 0 0 0 1000px rgba(0,0,0,.48);
 
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-}
+} */
 
 /* -------------------------------- Navigation Bar Section -------------------------------- */
 
-/* Defining the font and size for the Navigation Bar Text */
+/* Defining the font size for the Navigation Bar Text */
 nav {
-    font-family: 'Montserrat', sans-serif; /* Orig Segoe UI Symbol */
     font-size: 17px;
 }
 
