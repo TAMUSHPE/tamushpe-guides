@@ -14,4 +14,4 @@ This is the space around an element. You can change the margins on either side t
 
 This is the element and the contents it holds inside it. Padding is what determines how items appear in their containers. 
 
-![explanation](../images/margins.png)
+![explanation](/img/new-pw/margins.png)
