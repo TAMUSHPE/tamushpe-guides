@@ -42,7 +42,8 @@ Inside of the nav object we are now going to add the following code:
 
 			<!-- Logo now takes you to your name/introduction via bookmark -->
 			<a class="navbar-brand" href="#introduction">
-				<img src="assets/LogoV1.png" style= width:45px style= height:30px alt="Logo">
+				<!-- TODO: Create and add your logo here! -->
+				<img src="assets/YOUR_LOGO.png" style= width:45px style= height:30px alt="Logo">
 			</a>
 
 			<!-- ml-auto creates margins on the left and pushes dropdown toggle to the far right -->
@@ -67,7 +68,8 @@ Let's move down a little further now:
 ``` html
 <!-- Logo now takes you to your name/introduction via bookmark -->
 <a class="navbar-brand" href="#introduction">
-    <img src="assets/LogoV1.png" style= width:45px style= height:30px alt="Logo">
+	<!-- TODO: Create and add your logo here! -->
+    <img src="assets/YOUR_LOGO.png" style= width:45px style= height:30px alt="Logo">
 </a>
 ```
 
@@ -108,7 +110,7 @@ This next part of the code you're going to write is the rest of the navigation b
 		</div>
 
 		<!-- No longer part of list in nav bar, ml-auto pushes it to the right of the navbar, it's now also a button with an outline -->
-		<!-- UPDATE RESUME LINK (FIXME) -->
+		<!-- TODO: UPDATE RESUME LINK -->
 		<a href="assets/xyz-resume.pdf" class="ml-auto" target="_blank"><button type="button" 
 			class="btn btn-sm btn-outline-dark" style="color: #ffffff">Resume</button></a>
 	</div>
@@ -132,7 +134,7 @@ After that, we just close our large nav object with <**/nav**>.
 Let's now transition into our main.css file and add the following code to it.
 
 ``` css
-/* Implementing shadow and parallax effect for landing page image */
+/* FIXME: Implementing shadow and parallax effect for landing page image */
 
 /* .background-img {
     background-image: url(./assets/background-image.jpg);

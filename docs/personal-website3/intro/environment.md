@@ -29,12 +29,19 @@ Once you press this icon, type the following extension names into the search bar
 
 * HTML CSS Support
 * IntelliSense for CSS class names in HTML
+* TODO Highlight
 * Live Server
 
 The __"Live Server"__ extension that you downloaded will be used to view your changes as you go. Once it's installed you should see a small icon in the bottom-right corner, something like this:
 
 ![Live Server Icon](/img/new-pw/liveServerLogo.png)
 
-While you're at it, install some themes to make your VSCode look nice!
+---
+
+While you're at it, install some themes to make your VSCode look nice! You can search for themes in the extensions tab as shown above!
+
+![Theme Snippet](/img/new-pw/themeSnippet.png)
+
+To change your theme, go to your **Settings** page and then search for "theme". I personally use GitHub Dark, but it's up to you! If you want to try it out, install "GitHub Theme" from the extensions tab and set it as your theme!
 
 Next, you will begin to code your own personal website!

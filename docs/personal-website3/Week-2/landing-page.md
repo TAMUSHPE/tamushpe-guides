@@ -13,7 +13,7 @@ Under your navbar section let's write the following (remember to add your inform
 ``` html
 	<!---------------------------------- Introduction Section ---------------------------------->
 
-	<!-- Name, A&M class, major, intro-content makes the original background image darker -->
+	<!-- TODO: Name, A&M class, major, intro-content makes the original background image darker -->
 	<div class="container-fluid background-img" id="introduction">
 		<div class="row justify-content-center">
 			<div class="name">Diego Landaeta Torres</div>
@@ -33,7 +33,7 @@ This is going to be it for html, but if you want to add your own flare to your l
 In your main.css file let's add the following to the bottom:
 
 ``` css
-/* -------------------------------- Body Text Section -------------------------------- */
+/* -------------------------------- Introduction Section -------------------------------- */
 
 /* This is an "ID" which is used as a bookmark - Here we add padding to the top
    and make it take up the entire vertical screen with 100vh */
@@ -43,12 +43,15 @@ In your main.css file let's add the following to the bottom:
     line-height: 1.2 !important; /* Changes line-height from 1.5 since there was too much space in-between lines */
 }
 
+/* Styles name for landing page */
 .name {
-    font-size: 12vmin; /* Uses vmin to keep consistency (80px originally) (10vmin orig) */
+    font-size: 12vmin; /* Uses vmin to keep consistency */
     color: var(--text-color);
     padding-bottom: 0%; /* 0% */
     margin-bottom: auto;
 }
+
+/* Styles text under name on landing page */
 .background-text {
     font-size: 5.6vmin; /* 50px (4.8vmin orig) */
     color: var(--text-color);

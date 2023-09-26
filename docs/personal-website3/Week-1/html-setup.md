@@ -16,8 +16,8 @@ The template of code below is one that most websites will follow and it also inc
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- INSERT YOUR WEBSITE TITLE/NAME HERE -->
-	
+    <!-- TODO: INSERT YOUR WEBSITE TITLE/NAME HERE -->
+	<title>YOUR NAME</title> 
 
 	<!-- Importing bootstrap css -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
@@ -32,15 +32,11 @@ The template of code below is one that most websites will follow and it also inc
 
 	<!-- Font awesome (Github/Linkedin/Instagram icons etc.) -->
 	<script src="https://use.fontawesome.com/releases/v5.0.8/js/all.js"></script>
+	
+    <!-- TODO: PUT THE NAME OF YOUR CSS FILE HERE -->
+	<link rel="stylesheet" href="???">
 
-	<!-- Imports AOS (Animate on Scroll) library (CSS) -->
-	<link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
-	<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-
-    <!-- PUT THE NAME OF YOUR CSS FILE HERE -->
-
-
-    <!-- CAN ADD KEYWORDS AND DESCRIPTION - When your website pops up, the description will be shown -->
+    <!-- TODO: CAN ADD KEYWORDS AND DESCRIPTION - When your website pops up, the description will be shown -->
 	<meta name="keywords" content="Name, Portfolio, Student, Texas A&M, Class">
     <meta name="description" content="This a Portfolio Website used to showcase my experience and projects.">
 </head>
