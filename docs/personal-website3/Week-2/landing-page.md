@@ -24,11 +24,13 @@ Under your navbar section let's write the following (remember to add your inform
 		</div>
 	</div>
 ```
-This is going to be it for html, but if you want to add your own flare to your landing page that is great! If we want to change our website aesthetically where should we go?
+This is going to be it for html, but if you want to add your own flare to your landing page that is great! 
 
-...
+### If we want to change our website aesthetically where should we go?
 
-### main.css! 🤭 (I want to believe you said that with me, but this ain't Dora the Explorer so we can move on.)
+### ...
+
+### main.css! 🤭 (I want to believe you said that with me, but this isn't Dora the Explorer so we can move on.)
 
 In your main.css file let's add the following to the bottom:
 
