@@ -55,4 +55,9 @@ Under *"INSERT YOUR WEBSITE TITLE/NAME HERE"* write the following code with the 
 <title>Sample Title</title>
 ```
 
+So we have something to look at when we "Go Live", lets add the following very nerdy but classic phrase in our body section.
+``` html
+<h1>Hello World!</h1>
+```
+
 Let's take a slight side quest and then come back to the header after. 😛 
