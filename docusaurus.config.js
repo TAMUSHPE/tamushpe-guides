@@ -34,24 +34,25 @@ module.exports = {
         srcDark: 'img/logo_dark.svg',
       },
       items: [
+        // Ultimate Website Guide
         {
           type: 'doc',
           docId: 'personal-website3/intro/introduction',
           position: 'right',
-          label: 'Ultimate Personal Website',
-        },
-        {
-          type: 'doc',
-          docId: 'personal-website/Purpose/introduction',
-          position: 'right',
           label: 'Personal Website',
         },
-        {
-          type: 'doc',
-          docId: 'new-personal-website/Week-1/introduction',
-          position: 'right',
-          label: 'New Personal Website',
-        },
+        // {
+        //   type: 'doc',
+        //   docId: 'personal-website/Purpose/introduction',
+        //   position: 'right',
+        //   label: 'Personal Website',
+        // },
+        // {
+        //   type: 'doc',
+        //   docId: 'new-personal-website/Week-1/introduction',
+        //   position: 'right',
+        //   label: 'New Personal Website',
+        // },
         {
           type: 'doc',
           docId: 'python/getting-started/course-introduction',
@@ -92,17 +93,17 @@ module.exports = {
           title: 'Pages',
           items: [
             {
-              label: 'Ultimate Personal Website',
+              label: 'Personal Website',
               to:'/docs/personal-website3/intro/introduction',
             },
-            {
-              label: 'Personal Website',
-              to: '/docs/personal-website/Purpose/introduction',
-            },
-            {
-              label: 'New Personal Website',
-              to: '/docs/new-personal-website/Week-1/introduction',
-            },
+            // {
+            //   label: 'Personal Website',
+            //   to: '/docs/personal-website/Purpose/introduction',
+            // },
+            // {
+            //   label: 'New Personal Website',
+            //   to: '/docs/new-personal-website/Week-1/introduction',
+            // },
             {
               label: 'Python',
               to: '/docs/python/getting-started/course-introduction',
