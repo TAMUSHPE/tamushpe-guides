@@ -17,19 +17,20 @@ Your personal website will have the following components, which will help demons
   - Can have an image that completely fills the screen
 - About Me
   - Has a summarized description of you (don't make it an essay)
-  - Can have an image carousel of images of yourself throughout your academic career
   - Displays your interests and passions
-  - Timeline of important events from your life
+  - Optional: Image carousel of images of yourself in academic/professional settings
+- Experience
+  - Contains your work experiences in reverse chronological order (most recent first)
+  - Each experience should include a title, picture, and a description of what you did
 - Projects/Involvement
-  - Contains your projects and descriptions in reverse chronological order (most recent first)
-  - Each projects or involvement should include a title, picture, and a description
+  - Contains your projects/involvement and descriptions in reverse chronological order (most recent first)
+  - Each projects/involvement should include a title, picture, and a description of what you did
 - Resume 
   - This page will link the websites user to a pdf version of your most up to date resume
   - Page must open on a separate tab
 - Contact Me
-  - Will be at the very bottom of the website
-  - Should have your LinkedIn linked
-  - Your choice to include your email, GitHub, and any other ways to get a hold of you
+  - Will be at the very bottom of your website
+  - Should have your LinkedIn and any other choice of contact you want (email, GitHub, etc.)
 
 ## Friendly reminders
 
