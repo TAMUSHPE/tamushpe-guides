@@ -20,24 +20,22 @@ Once the repository is made, there should be something in the middle that seems 
 
 Now, open **Visual Studio Code** and click on the button which says "Clone Git Repository" and put the same link you copied in this menu and press **Clone from GitHub**.
 
-After this, we will perform a **very** important step: set upstream branch on git! Basically, this is saying we're creating a link from this *local* branch on your device to that of the *remote* branch in GitHub. 
+After this, we will configure our Git with our GitHub in VSCode.
 
-To access your terminal: You can click on **View** on the top navbar of the screen, then **terminal** on the dropdown menu. Once we open the terminal, let's make sure we're in Git Bash, to do this we can click on the dropdown symbol and select **Git Bash**. This is going to be at the top right corner of the terminal we just opened.
+To access your terminal: You can click on **View** on the top navbar of the screen, then **terminal** on the dropdown menu. Once we open the terminal, let's make sure we're in Powershell. It should say this at the top right of your terminal:
 
 ![Powershell](/img/new-pw/powershell.png)
 
-After clicking that down arrow, and selecting **Git Bash** your terminal should look something like this:
-
-![Git Bash](/img/new-pw/git-bash.png)
-
-Okay from here, we're going to write the following in the terminal:
+Okay from here, we're going to write either of the following in the terminal:
 
 ```
-git push --set-upstream origin <branch name>
+git config –global user.name “YourUserNameOnGithub”
+
+git config –global user.email “YourEmail”
 ```
 
-Make sure to delete all of <branch name\> including <\> and put **main**. This should be the name of your branch unless you have created another branch.
+Keep the quotations around your username or email, but make sure to replace each with the respective input. After its written correctly, make sure to press **Enter**.
 
-Niceee, now you've successfully cloned your repository!
+Niceee, now you've successfully cloned your repository and connected your Git to your GitHub!
 
 

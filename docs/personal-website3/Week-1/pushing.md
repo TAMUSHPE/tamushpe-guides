@@ -10,7 +10,27 @@ sidebar_position: 4
 
 #### Remember, it does not have to look like this, but this is a general outline of what you should have after completing your first week!
 
-Now that we have made changes to our repository, let's commit and push these changes. Go to the left hand side of VSCode and press the following icon:
+For our first push, we will perform a **very** important step: set upstream branch on git! Basically, this is saying we're creating a link from this *local* branch on your device to that of the *remote* branch in GitHub. 
+
+To access your terminal: You can click on **View** on the top navbar of the screen, then **terminal** on the dropdown menu. Once we open the terminal, let's make sure we're in Powershell.
+
+![Powershell](/img/new-pw/powershell.png)
+
+After clicking that down arrow, and selecting **Git Bash** your terminal should look something like this:
+
+![Git Bash](/img/new-pw/git-bash.png)
+
+Okay from here, we're going to write the following in the terminal:
+
+```
+git push --set-upstream origin <branch name>
+```
+
+Make sure to delete all of <branch name\> including <\> and put **main**. This should be the name of your branch unless you have created another branch.
+
+
+### Pushing After Initial Push
+After doing what I previously mentioned once, we can easily commit and push changes to our repository using the sidebar. Go to the left hand side of VSCode and press the following icon:
 
 ![Branch Icon](/img/new-pw/branch.png "Branch Icon")
 
