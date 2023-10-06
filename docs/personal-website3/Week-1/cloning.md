@@ -30,7 +30,8 @@ Okay from here, we're going to write either of the following in the terminal:
 
 ```
 git config –global user.name “YourUserNameOnGithub”
-
+```
+```
 git config –global user.email “YourEmail”
 ```
 
