@@ -16,12 +16,6 @@ To access your terminal: You can click on **View** on the top navbar of the scre
 
 ![Powershell](/img/new-pw/powershell.png)
 
-After clicking that down arrow, and selecting **Git Bash** your terminal should look something like this:
-
-![Git Bash](/img/new-pw/git-bash.png)
-
-Okay from here, we're going to write the following in the terminal:
-
 ```
 git push --set-upstream origin <branch name>
 ```
