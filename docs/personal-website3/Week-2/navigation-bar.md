@@ -134,19 +134,6 @@ After that, we just close our large nav object with <**/nav**>.
 Let's now transition into our main.css file and add the following code to it.
 
 ``` css
-/* FIXME: Implementing shadow and parallax effect for landing page image */
-
-/* .background-img {
-    background-image: url(./assets/background-image.jpg);
-
-    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.48);
-
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-} */
-
 /* -------------------------------- Navigation Bar Section -------------------------------- */
 
 /* Defining the font size for the Navigation Bar Text */

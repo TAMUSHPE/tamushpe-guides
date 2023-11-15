@@ -72,8 +72,6 @@ Let's say you don't want to be held to the constraints of just having one color 
 Inside, of your **main.css**, you can uncomment these lines of code and add an image to your assets folder and have that as your background image!
 
 ``` css
-/* Uncomment the "class" .background-img */
-
 /* Replace "background-image.jpg" with whatever name your image has inside of the "assets" folder */
 .background-img {
     background-image: url(./assets/background-image.jpg);
