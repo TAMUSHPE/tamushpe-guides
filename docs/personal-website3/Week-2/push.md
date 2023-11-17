@@ -6,7 +6,7 @@ sidebar_position: 6
 
 ### Press that "Go Live" button at the bottom right of your screen to see what you have so far
 
-![How your website should look after week 1](/img/new-pw/week-2.png)
+![How your website should look after week 2](/img/new-pw/week-2.png)
 
 Since we got that first push out of the way, can easily commit and push changes to our repository using the sidebar. Go to the left hand side of VSCode and press the following icon:
 
