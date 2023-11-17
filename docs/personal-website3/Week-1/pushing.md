@@ -16,6 +16,18 @@ To access your terminal: You can click on **View** on the top navbar of the scre
 
 ![Powershell](/img/new-pw/powershell.png)
 
+From here we will first stage all of our changes by typing in the following command:
+```
+git add .
+```
+
+After this, we must commit and add a comment to our commit:
+```
+git commit -m"First Commit"
+```
+
+Once we have done both of these steps were are now ready to do push our changes to GitHub:
+
 ```
 git push --set-upstream origin <branch name>
 ```

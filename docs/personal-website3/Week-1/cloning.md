@@ -22,20 +22,24 @@ Now, open **Visual Studio Code** and click on the button which says "Clone Git R
 
 After this, we will configure our Git with our GitHub in VSCode.
 
-To access your terminal: You can click on **View** on the top navbar of the screen, then **terminal** on the dropdown menu. Once we open the terminal, let's make sure we're in Powershell. It should say this at the top right of your terminal:
+To access your terminal: You can click on **View** on the top navbar of the screen, then **terminal** on the dropdown menu. Once we open the terminal, let's make sure we're in Git Bash. It should say this at the top right of your terminal:
 
 ![Powershell](/img/new-pw/powershell.png)
 
-Okay from here, we're going to write either of the following in the terminal:
+We need to click that bottom arrow which will give us a drop down menu. From here we can select, **Git Bash**. Your terminal should look something like this once you have switched to Git Bash.
+
+![GitBash](/img/new-pw/git-bash.png)
+
+Okay from here, we're going to **type** both of the following in the terminal:
 
 ```
-git config –global user.name “YourUserNameOnGithub”
+git config --global user.name "YourUserNameOnGitHub"
 ```
 ```
-git config –global user.email “YourEmail”
+git config --global user.email "YourEmail"
 ```
 
-Keep the quotations around your username or email, but make sure to replace each with the respective input. After its written correctly, make sure to press **Enter**.
+Keep the quotations around your username and email, but make sure to replace each with the respective input. After its written correctly, make sure to press **Enter**.
 
 Niceee, now you've successfully cloned your repository and connected your Git to your GitHub!
 
