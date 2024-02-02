@@ -79,7 +79,7 @@ module.exports = {
         // },
         {
           type: 'doc',
-          docId: 'shpeathon23/event-details/event-details',
+          docId: 'shpeathon24/event-details/event-details',
           position: 'right',
           className: 'nav-button-orange',
           label: 'SHPEathon',
@@ -114,7 +114,7 @@ module.exports = {
             },
             {
               label: 'SHPEathon',
-              to: '/docs/shpeathon23/event-details',
+              to: '/docs/shpeathon24/event-details',
             },
           ],
         },
