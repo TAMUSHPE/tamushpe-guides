@@ -74,4 +74,4 @@ The positions and their descriptions are shown in the [Company Roles](/docs/shpe
 
 Make sure to include:
 
-- `CEO, CTO, CFO, and CMO`
+- `CEO, CTO, CFO, CMO, and CSO`
