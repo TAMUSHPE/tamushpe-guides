@@ -18,5 +18,16 @@ Please answer the following questions relating to how you will raise and allocat
     - What changes did you make and how will that affect profit? (Good or Bad?) Explain.
     - Provide visualizations (Example: Charts, cost saved over x amount of years) on how the proposed idea would effect the company.
 
-4. What additional efforts will you make to increase your company’s profits?
-    - Think outside the box.
+4. Are the materials for your product sustainable? 
+    - If so, please explain how.
+    - If not, explain why you chose to use those specific materials.
+
+5. What sustainable impact is your product going to have?
+    - What current environmental issue are you trying to solve/mitigate? 
+    - How much do you estimate your product will help do that?
+
+6. How sustainable is the disposal of your product?
+    - What impact will your product have after its lifetime of usage?
+    - How are you not contributing or contributing less than other products to environmental problems?
+
+### If a question is not applicable, mention why it's not instead of answering it.
