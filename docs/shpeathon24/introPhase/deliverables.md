@@ -8,7 +8,7 @@ sidebar_position: 5
 
 There are several deliverables that will be due in this section. Create a word or google doc to write down and save your answers. **Once you've completed the following deliverables, upload the Google or Word document to the shared team folder.**
 
-Here's a quick link to the [Submission Page.](/docs/shpeathon23/event-details/submitting_deliverables.md)
+Here's a quick link to the [Submission Page.](/docs/shpeathon24/event-details/submitting_deliverables.md)
 
 ## 🙋‍♀️ Get to know your Team
 
@@ -70,7 +70,7 @@ The main principles that guide all of a company's actions. These values serve as
 
 Read the description for each role and assign them to someone on the team who would best fit the position. ** In your document, please explain why each person was assigned to their role and why you believe they will succeed. ** 
 
-The positions and their descriptions are shown in the [Company Roles](/docs/shpeathon23/introPhase/company-roles.md) page, check it out if you want a brief overview of their responsibilities.
+The positions and their descriptions are shown in the [Company Roles](/docs/shpeathon24/introPhase/company-roles.md) page, check it out if you want a brief overview of their responsibilities.
 
 Make sure to include:
 

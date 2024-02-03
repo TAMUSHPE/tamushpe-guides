@@ -9,10 +9,10 @@ sidebar_position: 2
 <!-- FIXME: Add prompt/theme -->
 
 ## Theme
-```
-TAMU SHPE members will collaborate in a weekend long competition to launch a mock company and create an innovative product that enhances and assists the lives of people with any given type of disability.
 
-```
+**Design an innovative, consumer-friendly product that encourages sustainable living.**
+
+The goal is to make eco-friendly choices accessible, appealing, cost-effective, and effortless for everyone.
 
 ## 📃 Details
 
