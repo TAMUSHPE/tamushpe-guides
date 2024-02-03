@@ -21,10 +21,9 @@ No! This competition is beginner-friendly and specifically geared towards provid
 No! We will be assigning teams evenly to distribute your talented skill sets and allow you to collaborate with new SHPEsters!
 </details>
 
-<details>
-<summary>"Where can I work with my team?"</summary>
-Anywhere! We've reserved several rooms in Zach for Friday from 6:30pm - 10:30pm so that you can work and bond with your team! The rooms that've been reserved include Zach 215, 250, 256, 264, 282L, 282N, 314, 317, 382H, and 382K.
-</details>
+**You can find the rooms we reserved down below!** 
+
+[Room List](https://docs.google.com/spreadsheets/d/1LJsLKJP03gWP9BshDpiI9byJx8DOOkTatiFxEuxND6c/edit#gid=0)
 
 <!-- <details>
 <summary>"Can I add team preferences after submitting?"</summary>
