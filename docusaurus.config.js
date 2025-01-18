@@ -77,13 +77,13 @@ module.exports = {
         //   position: 'right',
         //   className: 'nav-button-blue',
         // },
-        {
-          type: 'doc',
-          docId: 'shpeathon24/event-details/event-details',
-          position: 'right',
-          className: 'nav-button-orange',
-          label: 'SHPEathon',
-        },
+        // {
+        //   type: 'doc',
+        //   docId: 'shpeathon24/event-details/event-details',
+        //   position: 'right',
+        //   className: 'nav-button-orange',
+        //   label: 'SHPEathon',
+        // },
       ],
     },
     footer: {
