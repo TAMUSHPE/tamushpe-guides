@@ -79,7 +79,7 @@ module.exports = {
         // },
         // {
         //   type: 'doc',
-        //   docId: 'shpeathon24/event-details/event-details',
+        //   docId: 'shpeathon25/event-details/event-details',
         //   position: 'right',
         //   className: 'nav-button-orange',
         //   label: 'SHPEathon',
@@ -174,6 +174,12 @@ module.exports = {
           // Please change this to your repo.
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
+          exclude:[
+            '**/shpeathon25/**',
+            '**/shpeathon24/**',
+            '**/shpeathon23/**',
+            '**/shpeathon22/**',
+          ],
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
