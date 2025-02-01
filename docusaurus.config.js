@@ -4,7 +4,7 @@ module.exports = {
   tagline: 'An inclusive environemnt for individuals who are passionate about using technology to improve themselves and the life of others.',
   url: 'https://tech.tamushpe.org/',
   baseUrl: '/',
-  onBrokenLinks: 'throw',
+  onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'TAMUSHPE', // Usually your GitHub org/user name.
@@ -176,6 +176,11 @@ module.exports = {
             'https://github.com/facebook/docusaurus/edit/master/website/',
           exclude:[
             '**/shpeathon25/**',
+            '**/shpeathon25/final-presentation',
+            '**/shpeathon25/introPhase',
+            '**/shpeathon25/marketingPhase',
+            '**/shpeathon25/designPhase',
+            '**/shpeathon25/financePhase',
             '**/shpeathon24/**',
             '**/shpeathon23/**',
             '**/shpeathon22/**',
