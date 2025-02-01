@@ -24,7 +24,7 @@ No! We will be assigning teams evenly to distribute your talented skill sets and
 
 **You can find the rooms we reserved down below!**
 
-[Room List](/docs/shpeathon25/event-details/faq)
+[Room List](https://docs.google.com/spreadsheets/d/1CLOXEpfG6a7HLjN-pkUeRkRfbJxYkWrEAxO5_Uf5Rt8/edit?usp=sharing)
 
 <!-- <details>
 <summary>"Can I add team preferences after submitting?"</summary>

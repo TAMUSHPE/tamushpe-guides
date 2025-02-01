@@ -77,13 +77,13 @@ module.exports = {
         //   position: 'right',
         //   className: 'nav-button-blue',
         // },
-        // {
-        //   type: 'doc',
-        //   docId: 'shpeathon25/event-details/event-details',
-        //   position: 'right',
-        //   className: 'nav-button-orange',
-        //   label: 'SHPEathon',
-        // },
+        {
+          type: 'doc',
+          docId: 'shpeathon25/event-details/event-details',
+          position: 'right',
+          className: 'nav-button-orange',
+          label: 'SHPEathon',
+        },
       ],
     },
     footer: {
@@ -175,9 +175,9 @@ module.exports = {
           editUrl:
             'https://github.com/facebook/docusaurus/edit/master/website/',
           exclude:[
-            '**/shpeathon25/**',
+            // '**/shpeathon25/**',
             '**/shpeathon25/final-presentation',
-            '**/shpeathon25/introPhase',
+            // '**/shpeathon25/introPhase',
             '**/shpeathon25/marketingPhase',
             '**/shpeathon25/designPhase',
             '**/shpeathon25/financePhase',
