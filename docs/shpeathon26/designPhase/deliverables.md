@@ -9,7 +9,7 @@ custom_edit_url: null
 
 ## Product Planning
 
-A mind map is a visual tool that helps you organize and connect ideas around a central concept. It is a brainstorming diagram that starts with the main idea in the center and branches out with related topics or qualities of your product.
+THIS IS A TEST A mind map is a visual tool that helps you organize and connect ideas around a central concept. It is a brainstorming diagram that starts with the main idea in the center and branches out with related topics or qualities of your product.
 
 ![Mind Map](/img/shpeathon-mind-map.png)
 
