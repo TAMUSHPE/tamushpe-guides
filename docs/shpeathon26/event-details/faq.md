@@ -9,7 +9,7 @@ custom_edit_url: null
 
 <details>
 <summary>"Will I be stuck on campus for 48 hours??"</summary>
-No! There is a mandatory kickoff event Friday afternoon, several mandatory events throughout Saturday, and mandatory presentations on Sunday. Your team is responsible for scheduling meeting times and locations that work best for them throught the weekend.
+No! There is a mandatory kickoff event Friday @ 6:00 PM, several mandatory events throughout Saturday, and mandatory presentations on Sunday. Your team is responsible for scheduling meeting times and locations that work best for them throught the weekend.
 </details>
 
 <details>
@@ -24,7 +24,7 @@ No! We will be assigning teams evenly to distribute your talented skill sets and
 
 **You can find the rooms we reserved down below!**
 
-[Room List](https://docs.google.com/spreadsheets/d/1CLOXEpfG6a7HLjN-pkUeRkRfbJxYkWrEAxO5_Uf5Rt8/edit?usp=sharing)
+[Room List](https://docs.google.com/spreadsheets/d/1vudWNzox0FjXtFTYDAkrk8oFh4Z9oKspRktFsy_t1pc/edit?usp=sharing)
 
 <!-- <details>
 <summary>"Can I add team preferences after submitting?"</summary>
