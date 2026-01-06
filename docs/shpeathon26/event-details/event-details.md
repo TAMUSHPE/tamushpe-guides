@@ -3,7 +3,7 @@ sidebar_position: 1
 custom_edit_url: null
 ---
 
-# Event Details
+# Event Details and Vicente is smelly
 
 export const BlueText = ({text}) => (
   <span className="blue-text">
