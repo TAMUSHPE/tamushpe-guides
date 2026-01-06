@@ -9,7 +9,7 @@ custom_edit_url: null
 
 ## 📃 Details
 
-Below you'll find descriptions for four essential company roles. You will review the descriptions with your team and assign someone to each position. Note: Each person is responsible for their role's deliverables, however, everyone must take ownership of the company as a whole and help wherever needed. Some roles require more work so it's essential that everyone contributes and work as a team.
+Below you'll find descriptions for five essential company roles. You will review the descriptions with your team and assign someone to each position. Note: Each person is responsible for their role's deliverables, however, everyone must take ownership of the company as a whole and help wherever needed. Some roles require more work so it's essential that everyone contributes and work as a team. There may be a person with more than one role on a team or you may also choose to have two team members have a shared role. 
 
 ## 👩‍💼 Roles
 
@@ -33,4 +33,4 @@ The Chief Marketing Officer is the person responsible for advertising and market
 
 `COO`
 
-The Chief Operating Officer is responsible for overseeing the company’s daily operations and ensuring that all internal processes run smoothly. You will develop the company structure, manage logistics, and coordinate between departments. Additionally, you will assist in setting and implementing strategic goals to keep the company on track for success.
+The Chief Operations Officer is responsible for overseeing the company’s daily operations and ensuring that all internal processes run smoothly. You will develop the company structure, manage logistics, and coordinate between departments. Additionally, you will assist in setting and implementing strategic goals to keep the company on track for success.

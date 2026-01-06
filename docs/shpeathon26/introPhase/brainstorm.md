@@ -9,20 +9,16 @@ custom_edit_url: null
 
 <!-- FIXME: Add prompt/theme -->
 
-## Theme
+## Prompt
 
-**Develop an innovative solution to improve the health, safety, and well-being of Aggie students on campus.**
+**Design a product that can combat the human environmental impact.**
 
-Your goal is to improve everyday life at Texas A&M by creating a meaningful and practical impact for your fellow students!
-
-## 📃 Details
-
-Now that you know a bit more about each other, you can move on to the fun part! In this section, you will brainstorm product ideas that satisfy the theme of this competition. Be unique and creative with your ideas. 
+Your goal is to find a way to reduce the impact humans have on the environment! Whether this impact be through polution, deforestation, or any other means, that is up to you to decide!
 
 <!-- FIXME: Change to correct prompt/theme -->
 
 :::tip
 
-Consider everyday challenges that you and your fellow Aggies face on campus. Are there any services, resources, or technologies that could improve student health, safety, or well-being? Identify problems you wish had solutions and use them as inspiration for your design!
+Consider your everyday activities and how they impact the environment around you and beyond. Are there any services, resources, or technologies that you can develop or improve to reduce the impact of your daily activities?
 
 :::
