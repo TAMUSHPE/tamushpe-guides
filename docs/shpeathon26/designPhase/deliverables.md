@@ -9,7 +9,7 @@ custom_edit_url: null
 
 ## Product Planning
 
-THIS IS A TEST A mind map is a visual tool that helps you organize and connect ideas around a central concept. It is a brainstorming diagram that starts with the main idea in the center and branches out with related topics or qualities of your product.
+A mind map is a visual tool that helps you organize and connect ideas around a central concept. It is a brainstorming diagram that starts with the main idea in the center and branches out with related topics or qualities of your product.
 
 ![Mind Map](/img/shpeathon-mind-map.png)
 
@@ -19,13 +19,14 @@ Create your own mind map and **submit the image file into the google drive**.
 
 **Add a brief description of your product in a seperate section, make sure to mention what makes it reliable, inclusive, and ethical.**
 
-* Diversity & Inclusion
+* Impact
 
-   - How will your company promote diversity and inclusion, and what is your vision for their future growth?
+   - What is the global impact of your product?
 
 * Ethics
 
    - What systems will you implement to ensure your company and product remain ethical as they grow?
+   - How will you make sure that your product influences human impact rather than influencing humans themselves?
 
 
 
@@ -55,4 +56,3 @@ Linked below are some good tools that can be used for both the design and presen
 
 1. [Figma](https://www.figma.com/)
 2. [Canva](https://www.canva.com/)
-3. [TAMU Downloads](https://software.tamu.edu/public/AvailableSoftware.aspx)
