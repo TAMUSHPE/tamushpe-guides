@@ -11,7 +11,7 @@ export const BlueText = ({text}) => (
   </span>
 );
 
-![SHPEathon](/img/SHPEathon_Banner_25.png)
+![SHPEathon](/img/SHPEathon2026Banner.png)
 
 ## 📝 Event Description 
 
@@ -19,11 +19,11 @@ Collaborate with fellow SHPE members during a weekend-long competition to launch
 
 ## 📅 Schedule
 
-|             | <BlueText text="Friday (2/2)"></BlueText>      | <BlueText text="Saturday (2/3)"></BlueText>   | <BlueText text="Sunday (2/4)"></BlueText>     |
+|             | <BlueText text="Friday (1/30)"></BlueText>      | <BlueText text="Saturday (1//31)"></BlueText>   | <BlueText text="Sunday (2/1)"></BlueText>     |
 | ----------- | ----------- | ----------- | ----------- |
 | ** <BlueText text="Event:"></BlueText> **       | Kick-off Meeting       | Workshop/Mini Games | Final Presentations     |
-| ** <BlueText text="Location:"></BlueText> **    | Chevron Rooms     | Zachary     | ILCB 226         |
-| ** <BlueText text="Time:"></BlueText> **       | 7:00pm         |  <BlueText text="**"></BlueText>  11am-10pm       | 1:00pm          |
+| ** <BlueText text="Location:"></BlueText> **    | Chevron Rooms     | CHEN (JEB)     | ETB 1034         |
+| ** <BlueText text="Time:"></BlueText> **       | 6:00pm         |  <BlueText text="**"></BlueText>  11am-10pm       | 1:00pm          |
 | ** <BlueText text="Attire:"></BlueText> **       | Casual         | Casual       | Business Professional          |
 
 <BlueText text="** There is a mandatory Sales Pitch @ 11:30am, more information will be sent out Saturday."></BlueText> 
@@ -45,10 +45,10 @@ Collaborate with fellow SHPE members during a weekend-long competition to launch
 - 🧑‍💻 Website Highlight
 ```
 
-<!-- Geneva Link -->
+<!-- BFF Link -->
 
 ## 📲 Communication
 
-Join the Geneva: [Here](https://links.geneva.com/invite/2f895db5-9b4f-4fa8-b1f0-eeb04af94dfa)
+Join the BFF: [Here](https://bumble.com/bff/invite/9181fe67-6117-43e4-a18b-9bd67015d024)
 
-Check out the [FAQ](/docs/shpeathon25/event-details/faq) section for answers to commonly asked questions, including the location of pre-reserved team work rooms for Friday night. If you have any other questions, please let me know.
+If you have any other questions, please find any SHPEathon representative or DM TAMU SHPE Director of Technical Affairs, Alvaro Camacho, on BFF.
