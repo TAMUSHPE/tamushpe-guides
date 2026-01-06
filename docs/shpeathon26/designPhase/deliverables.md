@@ -17,7 +17,7 @@ Create your own mind map and **submit the image file into the google drive**.
 
 ## Description of Product
 
-**Add a brief description of your product in a seperate section, make sure to mention what makes it reliable, inclusive, and ethical.**
+**Add a brief description of your product in a seperate section, make sure to mention what makes it reliable, inclusive, and ethical. Make sure to submit this as well.**
 
 * Impact
 
@@ -34,9 +34,9 @@ Create your own mind map and **submit the image file into the google drive**.
 
 Design documentation is a collection of documents and resources that covers all aspects of your product design. Popular design documents include UI Mock-ups, UML Diagrams, CAD Models, Schematics, Sketches, and Product Renderings.
 
-For this deliverable, you are required to create **one** draft design of your website landing page and **one** design document, the second of which must be included in your sales pitch. You may include additional design documents for evaluation if desired.
+For this deliverable, you are required to create **one** draft design of your website landing page and **one** design document, the second of which must be included in your sales pitch. You may include additional design documents for evaluation if desired (if you do choose to add in extra documents, these can help to add bonus points to your final score).
 
-**Upload everything for this phase as one document in the Google Drive when finished**
+**Upload everything for this phase in the Google Drive when finished**
 
 Below are some examples of design documents for an app and for a physical product:
 
