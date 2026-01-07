@@ -13,14 +13,16 @@ Congrats for making it this far! The Final Presentation will provide you and you
 
 ## Requirements
 
-You have full creative control of your presentation, but make sure you incorporate each of the 4 phases into your presentation. This should include the introduction/establishment phase, design phase, marketing phase, and finance phase.
+You have full creative control of your presentation, but make sure you incorporate each of the 4 phases into your presentation. This should include the introduction/establishment phase, design phase, marketing phase, and finance phase (it may be a good idea to include some of your deliverables in your presentation).
 
 ## Conditions
 
 `Time:` Please keep the presentation under 5 minutes. We will also have 2 min (Max) for questions.
 
-`Attire:` Business Casual / Professional. Plan with teammates so nobody is over/underdressed.
+`Attire:` Business Professional. Plan with teammates so nobody is over/underdressed.
 
-`Order:` TBD by the winners of Jeopardy 👀
+`Order:` TBD by the winners of Wheel of Fortune 👀
 
-`Location:` ILCB 226 @ 1:00 pm (Be there early for donuts and coffee 🔥)
+`Location:` ETB 1034 @ 1:00 pm (Be there early for donuts and coffee 🔥)
+
+Good luck!

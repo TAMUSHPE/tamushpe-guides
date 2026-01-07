@@ -3,7 +3,7 @@ sidebar_position: 1
 custom_edit_url: null
 ---
 
-# Event Details
+# Event Details papa no puede tomar creatinina porque mama prefiere pastilla
 
 export const BlueText = ({text}) => (
   <span className="blue-text">
