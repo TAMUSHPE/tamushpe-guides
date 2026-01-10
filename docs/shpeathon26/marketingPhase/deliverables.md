@@ -26,7 +26,7 @@ If you are not able to collect direct consumer input, why? How would your audien
 
 ## Logo & Slogan
 
-Design a distinctive logo and a memorable slogan for your company. Generative AI use is **STRICTLY PROHIBITED** for this task. To earn full points, make sure to submit **PROOF** that you're logo and slogan is **NOT** AI generated. Put in the effort to create something unique that reflects your company’s mission and vision.
+Design a distinctive logo and a memorable slogan for your company. Generative AI use is **STRICTLY PROHIBITED** for this task. To earn full points, make sure to submit **PROOF** that your logo and slogan is **NOT** AI generated. Put in the effort to create something unique that reflects your company’s mission and vision.
 
 ![Logo Example](/img/shpeathon-logo-examples.png)
 

@@ -9,7 +9,7 @@ custom_edit_url: null
 
 ## 📃 Details
 
-Now that you and your team have agreed on a product idea, it's time to establish your company! What a company stands for and how its viewed by the public is just as important as the products they sell. In this section, you will create a company and define its mission, vision, and core values. 
+Now that you and your team have agreed on a product idea, it's time to establish your company! What a company stands for and how it's viewed by the public is just as important as the products they sell. In this section, you will create a company and define its mission, vision, and core values. 
 
 ## 🔘 Example 
 

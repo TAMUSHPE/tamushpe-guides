@@ -36,7 +36,7 @@ Design documentation is a collection of documents and resources that covers all 
 
 For this deliverable, you are required to create **one** draft design of your website landing page and **one** design document, the second of which must be included in your sales pitch. You may include additional design documents for evaluation if desired (if you do choose to add in extra documents, these can help to add bonus points to your final score).
 
-**Upload everything for this phase in the Google Drive when finished**
+**Upload everything for this phase in the Google Drive when finished.**
 
 Below are some examples of design documents for an app and for a physical product:
 
@@ -50,7 +50,7 @@ Below are some examples of design documents for an app and for a physical produc
 
 ## Resources for Design
 
-There is also something called wireframing which would be amazing when demonstrating your product. Linked below is a long video showing how to use Figma and wireframe an app. You can skip through this to learn of find a shorter video. [HERE.](https://youtu.be/_jmFuGs5cPo)
+There is also something called wireframing which would be amazing when demonstrating your product. Linked below is a long video showing how to use Figma and wireframe an app. You can skip through this to learn or find a shorter video. [HERE.](https://youtu.be/_jmFuGs5cPo)
 
 Linked below are some good tools that can be used for both the design and presentation.
 

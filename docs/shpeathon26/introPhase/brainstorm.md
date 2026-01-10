@@ -13,7 +13,7 @@ custom_edit_url: null
 
 **Design a product that can combat the human environmental impact.**
 
-Your goal is to find a way to reduce the impact humans have on the environment! Whether this impact be through polution, deforestation, or any other means, that is up to you to decide!
+Your goal is to find a way to reduce the impact humans have on the environment! Whether this impact be through pollution, deforestation, or any other means, that is up to you to decide!
 
 <!-- FIXME: Change to correct prompt/theme -->
 

@@ -13,7 +13,7 @@ Congrats for making it this far! The Final Presentation will provide you and you
 
 ## Requirements
 
-You have full creative control of your presentation, but make sure you incorporate each of the 4 phases into your presentation. This should include the introduction/establishment phase, design phase, marketing phase, and finance phase (it may be a good idea to include some of your deliverables in your presentation).
+You have full creative control of your presentation, but make sure you incorporate each of the 4 phases into your presentation. This should include the introduction/establishment phase, design phase, marketing phase, and finance/operations phase (it may be a good idea to include some of your deliverables in your presentation).
 
 ## Conditions
 

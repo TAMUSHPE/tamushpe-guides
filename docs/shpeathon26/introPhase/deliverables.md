@@ -47,7 +47,7 @@ Upload the following images into your team's drive folder in the Introduction se
 
 Create a Pugh chart similar to the example above, listing key categories your team values on the left and at least **five** company options across the top. Calculate and compare the scores for each company, optionally assigning weights to categories for a more refined analysis. The option with the highest score is a good starting point to select your product and/or company idea.
 
-**Make sure to also submit your Pugh Chart**
+**Make sure to also submit your Pugh Chart.**
 
 ## ❓ Questions to Ask
 
@@ -71,7 +71,7 @@ Define each of the following for your company and ** include your answers in you
 A good name is important for marketing, social media, and SEO (top Google results).
 
 `Mission:`
-Declares the purpose of a company and how they serve their customers
+Declares the purpose of a company and how they serve their customers.
 
 `Vision:`
 Provides an idea of what you want your business to look like in the future. What are you striving for?

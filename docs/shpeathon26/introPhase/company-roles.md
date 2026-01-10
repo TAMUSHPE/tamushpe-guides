@@ -9,11 +9,11 @@ custom_edit_url: null
 
 ## 📃 Details
 
-Below you'll find descriptions for five essential company roles. You will review the descriptions with your team and assign someone to each position. Note: Each person is responsible for their role's deliverables, however, everyone must take ownership of the company as a whole and help wherever needed. Some roles require more work so it's essential that everyone contributes and work as a team. There may be a person with more than one role on a team or you may also choose to have two team members have a shared role. 
+Below you'll find descriptions for five essential company roles. You will review the descriptions with your team and assign someone to each position. Note: Each person is responsible for their role's deliverables, however, everyone must take ownership of the company as a whole and help wherever needed. Some roles require more work, so it's essential that everyone contributes and works as a team. There may be a person with more than one role on a team or you may also choose to have two team members have a shared role. 
 
 ## 👩‍💼 Roles
 
-Here's a brief description of the 4 main roles that make up every company. **When selecting your team's roles, make sure that the responsibilites match the team member's skillset.**
+Here's a brief description of the 5 main roles that make up every company. **When selecting your team's roles, make sure that the responsibilites match the team member's skillset.**
 
 `CEO`
 
