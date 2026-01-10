@@ -11,7 +11,7 @@ custom_edit_url: null
 
 Include a document outlining the hierarchical structure of your company, detailing any potential teams and departments, their purposes, and the chain of command. Additionally, provide a visual representation of your company's 5-year plan.
 
-The specifics of this visual are up to you to decide.
+The specifics of this visual are up to you to decide. A good example of what your company could look like can be found [here.](https://docs.google.com/presentation/d/1FatwsLNKi8cDD_8AM8h4u5nBmgbUzkSm-fJNcAI-Rdk/edit?usp=sharing)
 
 ## General Questions
 
