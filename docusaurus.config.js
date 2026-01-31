@@ -176,7 +176,7 @@ module.exports = {
             'https://github.com/facebook/docusaurus/edit/master/website/',
           exclude:[
             // '**/shpeathon26/**',
-             '**/shpeathon26/introPhase',
+            // '**/shpeathon26/introPhase',
              '**/shpeathon26/designPhase',
              '**/shpeathon26/marketingPhase',
              '**/shpeathon26/financePhase',
