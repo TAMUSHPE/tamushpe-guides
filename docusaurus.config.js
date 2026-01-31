@@ -177,7 +177,7 @@ module.exports = {
           exclude:[
             // '**/shpeathon26/**',
             // '**/shpeathon26/introPhase',
-             '**/shpeathon26/designPhase',
+            // '**/shpeathon26/designPhase',
              '**/shpeathon26/marketingPhase',
              '**/shpeathon26/financePhase',
              '**/shpeathon26/final-presentation',
