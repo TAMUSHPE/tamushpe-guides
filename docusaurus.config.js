@@ -180,7 +180,7 @@ module.exports = {
             // '**/shpeathon26/designPhase',
             // '**/shpeathon26/marketingPhase',
             // '**/shpeathon26/financePhase',
-             '**/shpeathon26/final-presentation',
+           //'**/shpeathon26/final-presentation',
             '**/shpeathon25/**',
             '**/shpeathon24/**',
             '**/shpeathon23/**',
